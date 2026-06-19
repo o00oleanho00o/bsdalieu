@@ -1,7 +1,7 @@
-# CONTENT_PRODUCTION_SYSTEM_v1.1
+# CONTENT_PRODUCTION_SYSTEM_v1.3_REVIEWED
 
-**Phiên bản:** 1.1  
-**Mục tiêu:** Tạo hệ thống vận hành nội dung đều đặn cho thương hiệu cá nhân Bác sĩ Thu, tránh làm rời rạc, tránh phụ thuộc cảm hứng.
+**Mục tiêu:** Vận hành nội dung đều đặn sau audit Facebook.  
+**Thay đổi:** Không đăng theo dịch vụ đang có, mà đăng theo nhận diện cần xây.
 
 ---
 
@@ -13,7 +13,11 @@ Không hỏi:
 
 Hỏi:
 
-> Tháng này Bác sĩ Thu cần xây nhận diện gì?
+> Tháng này Bác sĩ Thu cần được nhớ đến vì điều gì?
+
+Trong 90 ngày tới, câu trả lời là:
+
+> **Bác sĩ Thu là bác sĩ da liễu có chuyên môn, đồng hành nhân văn với người bệnh, nổi bật ở các hành trình điều trị bớt/sắc tố/mạch máu và giải thích điều trị đúng chỉ định.**
 
 ---
 
@@ -33,178 +37,143 @@ Learning & Repurpose
 
 ---
 
-# 3. Bước 1 — Idea Bank
+# 3. Idea Bank v1.3
 
-## Nguồn ý tưởng
+Nguồn ý tưởng ưu tiên:
+- Câu hỏi phụ huynh về bớt, mảng trắng, laser cho trẻ.
+- Case/hành trình đã được phép chia sẻ.
+- Câu hỏi bệnh nhân về mụn, nám, đỏ da, laser.
+- Bình luận thật.
+- Hiểu lầm phổ biến.
+- Nội dung thắng trên Facebook/Reels.
+- Doctor POV từ trải nghiệm khám thật.
 
-- Câu hỏi bệnh nhân hỏi nhiều.
-- Bình luận trên video.
-- Case thực tế đã ẩn danh.
-- Sai lầm phổ biến trên TikTok/Facebook.
-- Chủ đề từ hội nghị/đào tạo.
-- Trải nghiệm nghề nghiệp của Bác sĩ Thu.
-- Nội dung thắng của chính kênh.
-- Nội dung benchmark từ bác sĩ/clinic khác, nhưng không copy.
-
-## Format ghi ý tưởng
+Format ghi ý tưởng:
 
 | Trường | Nội dung |
 |---|---|
-| Ngày ghi |  |
-| Chủ đề thô |  |
-| Pillar |  |
-| Người xem |  |
-| Nỗi đau/cảm xúc |  |
-| Hiểu lầm |  |
-| Góc nhìn bác sĩ |  |
-| Format phù hợp | Video/bài/carousel/story |
+| Ngày ghi | |
+| Chủ đề thô | |
+| Pillar | |
+| Người xem | |
+| Nỗi đau/cảm xúc | |
+| Hiểu lầm | |
+| Doctor POV | |
+| Có gắn tài sản v1.3 không | Có/Không |
+| Format | Video/bài/carousel/story |
 | Độ ưu tiên | Cao/Trung bình/Thấp |
 
 ---
 
-# 4. Bước 2 — Content Queue
+# 4. Content Queue hằng tháng
 
-Mỗi tháng chọn:
+Mỗi tháng tối thiểu:
 
-- 12–20 video ngắn.
-- 4 bài Facebook dài.
-- 4–8 story/hậu trường.
-- 2 carousel.
-- 1 nội dung long-form nếu có nguồn lực.
+| Loại nội dung | Số lượng |
+|---|---:|
+| Video bác sĩ nói | 8–12 |
+| Bài Facebook dài/case diary | 4 |
+| Carousel/checklist | 2 |
+| Story/Q&A | 4–8 |
+| Video thủ thuật có voiceover giáo dục | tối đa 2 |
 
-## Lịch mẫu 1 tuần
+Tỷ lệ chủ đề:
+- 4 nội dung Hành trình trả lại tuổi thơ.
+- 3 nội dung Laser an toàn.
+- 3 nội dung Mụn/thâm/sẹo.
+- 2 nội dung Nám/sắc tố.
+- 2 nội dung Đỏ da/PDL.
+- 2 nội dung Aftercare.
+- 2 nội dung Doctor POV/đời sống nghề.
+
+---
+
+# 5. Lịch mẫu 1 tuần
 
 | Ngày | Nội dung |
 |---|---|
-| Thứ 2 | Video myth-busting |
-| Thứ 3 | Story hậu trường hoặc Q&A |
+| Thứ 2 | Reels bác sĩ nói: FAQ phụ huynh/bệnh nhân |
+| Thứ 3 | Story Q&A hoặc hậu trường |
 | Thứ 4 | Video Doctor POV |
-| Thứ 5 | Bài Facebook dài |
-| Thứ 6 | Video aftercare/FAQ |
-| Thứ 7 | Repost/shorts hoặc story |
-| Chủ nhật | Nghỉ hoặc bài nhẹ về đời sống nghề |
+| Thứ 5 | Bài Facebook dài/case diary |
+| Thứ 6 | Video myth-busting/aftercare |
+| Thứ 7 | Repost Shorts hoặc story |
+| Chủ nhật | Bài nhẹ đời sống nghề nếu có |
 
 ---
 
-# 5. Bước 3 — Production
-
-## Quy trình từng nội dung
+# 6. Quy trình từng nội dung
 
 1. Chọn ý tưởng.
-2. Chấm điểm ý tưởng.
-3. Viết 3 tầng:
-   - Full Script.
-   - Teleprompter.
-   - Cue Card.
-4. Bác sĩ Thu duyệt chuyên môn.
-5. Quay batch.
-6. Edit.
-7. Kiểm duyệt trước đăng.
+2. Chấm điểm theo v1.3.
+3. Viết 3 tầng nếu là video.
+4. Kiểm tra safety.
+5. Bác sĩ Thu duyệt chuyên môn.
+6. Quay batch.
+7. Edit.
+8. Đăng đa nền tảng.
+9. Sau 7 ngày phân tích.
 
 ---
 
-# 6. Bước 4 — Publishing
-
-## Nguyên tắc đăng đa nền tảng
-
-Một ý tưởng gốc có thể thành:
-
-- 1 TikTok/Reels/Shorts.
-- 1 caption Facebook cá nhân.
-- 1 bài Fanpage mở rộng.
-- 1 story poll.
-- 1 carousel.
-- 1 chủ đề YouTube dài nếu video ngắn thắng.
-
-## Vai trò từng kênh
-
-| Kênh | Vai trò |
-|---|---|
-| Facebook cá nhân | Niềm tin, người thật, Doctor POV |
-| Fanpage | Thư viện kiến thức, chính thức, dễ tìm lại |
-| TikTok/Reels | Kéo nhận biết |
-| YouTube Shorts | Tích lũy tìm kiếm ngắn hạn |
-| YouTube long-form | Authority dài hạn |
-| Story | Hậu trường, tương tác nhẹ |
-
----
-
-# 7. Bước 5 — Learning & Repurpose
-
-Sau 7 ngày, phân tích:
-
-| Chỉ số | Câu hỏi cần trả lời |
-|---|---|
-| View | Chủ đề có kéo người mới không? |
-| Watch time | Hook có giữ được người xem không? |
-| Save | Nội dung có giá trị lưu lại không? |
-| Share | Có chạm insight không? |
-| Comment | Người xem hỏi thêm gì? |
-| Inbox | Có tạo nhu cầu thăm khám không? |
-
----
-
-# 8. Ma trận tái sử dụng
-
-## Video thắng → tái sử dụng
+# 7. Ma trận tái sử dụng
 
 | Nguồn | Chuyển thành |
 |---|---|
-| Video 60s | Bài Facebook 800 chữ |
-| Video 60s | Carousel 5 slide |
-| Video 60s | Story Q&A |
-| Video 60s | Video YouTube 8–12 phút |
-| Comment hay | Video FAQ mới |
+| Case diary | 1 bài Facebook + 1 Reels Doctor POV + 1 carousel FAQ |
+| Video 60s thắng | Bài Facebook 800 chữ + YouTube Shorts + Story Q&A |
+| Comment phụ huynh | Video FAQ mới |
+| Before/after có consent | Bài giáo dục kỳ vọng thực tế |
+| Hành trình nhiều tháng | Series nhiều tập |
 
 ---
 
-# 9. Nhịp vận hành 90 ngày
+# 8. Nhịp 90 ngày
 
-## Tháng 1 — Xây nền
+## Tháng 1 — Chỉnh nhận diện
 
-- 20 video ngắn.
-- 4 bài Facebook.
-- Tập trung mụn/sẹo, nám, laser an toàn.
-- Test nhiều hook.
+- 12 video bác sĩ nói.
+- 4 bài/case diary.
+- Tạo album “Hành trình trả lại tuổi thơ”.
+- Giảm HIFU/giảm béo/xóa xăm.
 
-## Tháng 2 — Tối ưu
+## Tháng 2 — Tạo series rõ
 
-- Làm lại chủ đề thắng.
-- Bắt đầu series rõ.
-- Tăng Doctor POV.
-- Tăng Da và Cuộc Sống.
+- Duy trì 3 series:
+  - Hành trình trả lại tuổi thơ.
+  - Laser không phải phép màu.
+  - Mụn — thâm — sẹo có chiến lược.
+- Thêm FAQ phụ huynh.
+- Bắt đầu carousel.
 
 ## Tháng 3 — Tích lũy authority
 
-- Chọn 3–5 video thắng làm YouTube dài.
-- Tạo album/playlist theo pillar.
-- Bắt đầu báo cáo hiệu quả nội dung.
+- Chọn 3–5 nội dung thắng làm YouTube dài.
+- Tạo báo cáo theo pillar.
+- Tối ưu bio, ảnh bìa, bài ghim.
 
 ---
 
-# 10. KPI giai đoạn đầu
+# 9. KPI
 
 Không đặt nặng booking.
 
 Ưu tiên:
-
-| KPI | Mục tiêu |
-|---|---|
-| Số video sản xuất | 60–90 video/90 ngày |
-| Số bài Facebook | 12 bài/90 ngày |
-| Số series rõ ràng | 3–5 series |
-| Tỷ lệ video có save/share | Theo dõi tăng dần |
-| Câu hỏi bình luận | Là nguồn idea mới |
-| Độ nhất quán giọng thương hiệu | Duy trì |
+- Lượt share/lưu.
+- Bình luận chất lượng.
+- Inbox mô tả tình trạng cụ thể.
+- Người xem nhắc tên Bác sĩ Thu.
+- Tỷ lệ video bác sĩ nói có follow.
+- Series có người chờ nội dung tiếp theo.
 
 ---
 
-# 11. Checklist vận hành hàng tuần
+# 10. Checklist tuần
 
-- [ ] Có ít nhất 3 nội dung được đăng.
-- [ ] Có ít nhất 1 nội dung Doctor POV.
-- [ ] Có ít nhất 1 nội dung emotion-first.
+- [ ] Có ít nhất 3 nội dung đăng.
+- [ ] Có ít nhất 1 video bác sĩ nói.
+- [ ] Có ít nhất 1 Doctor POV.
+- [ ] Có ít nhất 1 nội dung flagship.
 - [ ] Có ít nhất 1 nội dung giáo dục chuyên môn.
+- [ ] Có kiểm tra safety.
 - [ ] Có ghi lại bình luận/câu hỏi mới.
-- [ ] Có chọn 1 nội dung để tái sử dụng.
-- [ ] Có kiểm tra an toàn trước đăng.

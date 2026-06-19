@@ -1,174 +1,155 @@
-# CONTENT_SCORING_SYSTEM_v1.1
+# CONTENT_SCORING_SYSTEM_v1.3_REVIEWED
 
-**Phiên bản:** 1.1  
-**Mục tiêu:** Chấm điểm ý tưởng trước khi viết/quay để ưu tiên nội dung có khả năng xây trust, kéo reach và đúng định vị Bác sĩ Thu.
-
----
-
-# 1. Vì sao cần chấm điểm ý tưởng?
-
-Không phải ý tưởng nào cũng đáng quay.
-
-Một ý tưởng tốt cho Bác sĩ Thu cần vừa:
-
-- Chạm nỗi đau bệnh nhân.
-- Đúng chuyên môn.
-- Dễ hiểu.
-- Dễ quay.
-- Hợp định vị.
-- Không rủi ro truyền thông.
+**Mục tiêu:** Chấm điểm ý tưởng theo định vị mới sau audit Facebook.
 
 ---
 
-# 2. Thang điểm 100
+# 1. Thang điểm 100
 
-| Tiêu chí | Điểm tối đa |
+| Tiêu chí | Điểm |
 |---|---:|
 | Nỗi đau/cảm xúc rõ | 20 |
-| Dễ hiểu, dễ viral | 15 |
-| Có giá trị chuyên môn | 20 |
+| Có tài sản thương hiệu hoặc insight thật | 15 |
+| Giá trị chuyên môn | 20 |
 | Có Doctor POV | 15 |
 | Hợp định vị Bác sĩ Thu | 15 |
 | Dễ sản xuất | 10 |
-| An toàn truyền thông | 5 |
+| An toàn truyền thông/y khoa | 5 |
 | **Tổng** | **100** |
 
+Điểm mới so với v1.1 là tiêu chí **tài sản thương hiệu hoặc insight thật**.
+
 ---
 
-# 3. Cách chấm chi tiết
+# 2. Cách chấm
 
-## 3.1. Nỗi đau/cảm xúc rõ — 20 điểm
+## Nỗi đau/cảm xúc rõ — 20
+
+Điểm cao khi chạm vào:
+- Phụ huynh sợ con tự ti.
+- Người bệnh sợ ánh nhìn.
+- Nỗi lo điều trị sai.
+- Hoang mang vì nhiều lời hứa.
+- Sợ sẹo/nám/đỏ kéo dài.
+
+## Tài sản thương hiệu hoặc insight thật — 15
 
 | Điểm | Mô tả |
 |---:|---|
-| 0–5 | Chỉ là kiến thức, không rõ người bệnh đau gì |
-| 6–10 | Có vấn đề da nhưng cảm xúc mờ |
-| 11–15 | Có nỗi lo rõ |
-| 16–20 | Chạm mạnh vào đời sống: tự ti, hoang mang, mất niềm tin, sợ sai |
+| 0–5 | Nội dung chung, ai cũng làm được |
+| 6–10 | Có insight nhưng chưa đặc trưng |
+| 11–15 | Gắn với tài sản thật: hành trình bớt, phụ huynh, Doctor POV, câu chuyện phòng khám ẩn danh |
 
-Ví dụ cao điểm:
-> Điều đau nhất của mụn đôi khi không phải cái mụn.
+## Giá trị chuyên môn — 20
 
----
+Điểm cao khi:
+- Có phân biệt tổn thương.
+- Có logic chỉ định.
+- Có kỳ vọng thực tế.
+- Có hướng thăm khám khi cần.
 
-## 3.2. Dễ hiểu, dễ viral — 15 điểm
+## Doctor POV — 15
 
-| Điểm | Mô tả |
-|---:|---|
-| 0–5 | Quá học thuật |
-| 6–10 | Dễ hiểu nhưng hook chưa mạnh |
-| 11–15 | Có hook rõ, một ý chính, dễ chia sẻ |
+Điểm cao khi thể hiện:
+- Bác sĩ cân nhắc gì.
+- Khi nào chưa làm.
+- Vì sao không hứa quá.
+- Bác sĩ ưu tiên an toàn gì.
 
-Ví dụ cao điểm:
-> Mụn còn viêm, đừng vội trị sẹo.
+## Hợp định vị — 15
 
----
-
-## 3.3. Giá trị chuyên môn — 20 điểm
-
-| Điểm | Mô tả |
-|---:|---|
-| 0–5 | Quá chung chung |
-| 6–10 | Có lời khuyên cơ bản |
-| 11–15 | Có phân biệt/logic y khoa |
-| 16–20 | Thể hiện tư duy điều trị rõ ràng |
-
-Ví dụ cao điểm:
-> Kiểm soát mụn → phân biệt PIE/PIH → đánh giá sẹo → chọn công nghệ.
-
----
-
-## 3.4. Có Doctor POV — 15 điểm
-
-| Điểm | Mô tả |
-|---:|---|
-| 0–5 | Chỉ nói kiến thức |
-| 6–10 | Có lời khuyên bác sĩ |
-| 11–15 | Thể hiện rõ bác sĩ cân nhắc/từ chối/ưu tiên điều gì |
-
-Ví dụ cao điểm:
-> Khi nào tôi chưa chỉ định laser cho bệnh nhân nám?
-
----
-
-## 3.5. Hợp định vị — 15 điểm
-
-Ý tưởng phải củng cố hình ảnh:
-
+Củng cố:
 - Da khỏe trước, đẹp sau.
 - Điều trị đúng trước, làm đẹp sau.
-- Không bán hàng lộ.
+- Bác sĩ Thu là nhân vật chính.
+- Pema/máy/dịch vụ chỉ là bối cảnh.
 
----
+## Dễ sản xuất — 10
 
-## 3.6. Dễ sản xuất — 10 điểm
+Điểm cao nếu:
+- Bác sĩ nói trực tiếp.
+- Dễ quay bằng điện thoại.
+- Có thể làm trong batch.
+- Không cần case nhạy cảm nếu chưa có consent.
 
-| Điểm | Mô tả |
-|---:|---|
-| 0–3 | Cần nhiều hình ảnh/case khó chuẩn bị |
-| 4–7 | Có thể quay nhưng cần minh họa |
-| 8–10 | Bác sĩ nói trực tiếp, dễ quay bằng điện thoại |
-
----
-
-## 3.7. An toàn truyền thông — 5 điểm
+## An toàn — 5
 
 Trừ điểm nếu:
-
+- Hứa kết quả.
+- Dùng ảnh trẻ em thiếu cân nhắc.
+- Khoe before/after quá mức.
 - Dễ thành quảng cáo dịch vụ.
 
 ---
 
-# 4. Phân loại sau khi chấm
+# 3. Điểm trừ đặc biệt
+
+| Vấn đề | Trừ |
+|---|---:|
+| Nội dung chỉ quay máy/thủ thuật, không có bác sĩ giải thích | -15 |
+| Pema/logo/dịch vụ là nhân vật chính | -10 |
+| Dùng từ “bay màu”, “sạch hoàn toàn”, “đẹp kịp Tết” | -10 |
+| Before/after thiếu kỳ vọng thực tế | -10 |
+| Hình ảnh trẻ em/case nhạy cảm thiếu lưu ý privacy | -15 |
+| Chủ đề HIFU/giảm béo/xóa xăm không có Doctor POV | -10 |
+
+---
+
+# 4. Phân loại
 
 | Điểm | Quyết định |
 |---:|---|
-| 85–100 | Ưu tiên quay ngay |
-| 70–84 | Có thể quay, cần chỉnh hook/tone |
-| 55–69 | Chưa ưu tiên, nên viết lại angle |
+| 85–100 | Ưu tiên quay/đăng ngay |
+| 70–84 | Có thể làm, cần chỉnh hook/tone |
+| 55–69 | Chưa ưu tiên, cần đổi angle |
 | Dưới 55 | Bỏ hoặc để sau |
 
 ---
 
-# 5. Ví dụ chấm điểm
+# 5. Ví dụ chấm
 
-## Ý tưởng 1
-"Nám là gì?"
+## Ý tưởng thấp
 
-| Tiêu chí | Điểm |
-|---|---:|
-| Nỗi đau/cảm xúc | 5 |
-| Dễ hiểu/viral | 6 |
-| Chuyên môn | 10 |
-| Doctor POV | 2 |
-| Hợp định vị | 10 |
-| Dễ sản xuất | 10 |
-| An toàn | 5 |
-| Tổng | 48 |
+“Chạy đua làm HIFU đẹp kịp Tết”
 
-Kết luận: Không nên quay theo angle này. Cần đổi hook.
+- Cảm xúc: 6/20
+- Tài sản thương hiệu: 2/15
+- Chuyên môn: 5/20
+- Doctor POV: 1/15
+- Hợp định vị: 3/15
+- Dễ sản xuất: 8/10
+- An toàn: 3/5  
+**Tổng: 28/100 — bỏ hoặc viết lại.**
+
+## Viết lại tốt hơn
+
+“Khi nào bác sĩ chưa khuyên làm HIFU dù khách muốn trẻ hóa nhanh?”
+
+- Cảm xúc: 12/20
+- Tài sản thương hiệu: 8/15
+- Chuyên môn: 16/20
+- Doctor POV: 14/15
+- Hợp định vị: 13/15
+- Dễ sản xuất: 9/10
+- An toàn: 5/5  
+**Tổng: 77/100 — có thể làm.**
+
+## Ý tưởng rất tốt
+
+“Bớt rượu vang ở trẻ: bố mẹ nên chờ lớn hay khám sớm?”
+
+- Cảm xúc: 19/20
+- Tài sản thương hiệu: 15/15
+- Chuyên môn: 17/20
+- Doctor POV: 14/15
+- Hợp định vị: 15/15
+- Dễ sản xuất: 9/10
+- An toàn: 5/5  
+**Tổng: 94/100 — ưu tiên quay.**
 
 ---
 
-## Ý tưởng 2
-"Có nhiều chị nói: em không ngại già, em chỉ ngại lúc nào cũng trông mệt mỏi — và thủ phạm đôi khi là nám"
-
-| Tiêu chí | Điểm |
-|---|---:|
-| Nỗi đau/cảm xúc | 18 |
-| Dễ hiểu/viral | 13 |
-| Chuyên môn | 15 |
-| Doctor POV | 12 |
-| Hợp định vị | 15 |
-| Dễ sản xuất | 10 |
-| An toàn | 5 |
-| Tổng | 88 |
-
-Kết luận: Ưu tiên quay.
-
----
-
-# 6. Template chấm điểm nhanh
+# 6. Template chấm nhanh
 
 ```text
 Chủ đề:
@@ -176,28 +157,18 @@ Hook:
 Người xem:
 Nỗi đau/cảm xúc:
 Góc nhìn bác sĩ:
+Có gắn tài sản thương hiệu v1.3 không:
 
 Chấm điểm:
 - Nỗi đau/cảm xúc rõ: /20
-- Dễ hiểu, dễ viral: /15
+- Tài sản thương hiệu/insight thật: /15
 - Giá trị chuyên môn: /20
-- Có Doctor POV: /15
+- Doctor POV: /15
 - Hợp định vị: /15
 - Dễ sản xuất: /10
-- An toàn truyền thông: /5
+- An toàn: /5
 
 Tổng:
 Quyết định:
 Cần chỉnh:
 ```
-
----
-
-# 7. Checklist trước khi chọn quay
-
-- [ ] Người xem thấy ngay vấn đề của mình.
-- [ ] Có một ý chính.
-- [ ] Có cảm xúc hoặc tình huống đời sống.
-- [ ] Có góc nhìn bác sĩ.
-- [ ] Có lời khuyên thực tế.
-- [ ] Dễ quay trong 1–2 take.

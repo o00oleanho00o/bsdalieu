@@ -1,106 +1,91 @@
-# AI_WORKFLOW_FOR_BS_THU_v1.1
+# AI_WORKFLOW_FOR_BS_THU_v1.3_REVIEWED
 
-**Phiên bản:** 1.1  
-**Mục tiêu:** Chuẩn hóa cách dùng AI trong dự án truyền thông Bác sĩ Thu để nghiên cứu, lên ý tưởng, viết nội dung, kiểm duyệt và tái sử dụng.
+**Mục tiêu:** Chuẩn hóa cách dùng AI sau audit Facebook, tập trung rewrite và sản xuất doctor-led content.
 
 ---
 
-# 1. Vai trò của AI trong dự án
-
-AI không thay thế bác sĩ.
+# 1. Vai trò của AI
 
 AI hỗ trợ:
-
 - Tổ chức ý tưởng.
 - Viết nháp.
-- Gợi ý hook.
-- Chuyển bài dài thành video.
-- Chuyển video thành bài dài.
-- Kiểm tra tone và safety.
-- Tái sử dụng nội dung.
+- Chuyển nội dung dịch vụ thành Doctor POV.
+- Tạo video 3 tầng.
+- Viết caption/bài dài.
+- Kiểm tra safety.
 - Phân tích hiệu quả.
-
-Bác sĩ Thu vẫn cần duyệt:
-
-- Chuyên môn.
-- Giọng nói thật.
-- Ranh giới y khoa.
-- Tính phù hợp với ca bệnh thực tế.
-
----
-
-# 2. Bộ chat nên có trong Project
-
-## Chat 1 — Brand Strategy
-Dùng cho:
-- Định vị.
-- Chân dung khách hàng.
-- Chiến lược kênh.
-- Kế hoạch 3–6–12 tháng.
-
-## Chat 2 — Content Pillars
-Dùng cho:
-- Lên lịch 7 ngày/30 ngày.
-- Tạo series.
-- Chọn góc tiếp cận.
-
-## Chat 3 — Scripts
-Dùng cho:
-- Full Script.
-- Teleprompter.
-- Cue Card.
-- Caption.
-- Text overlay.
-
-## Chat 4 — Facebook Long-form
-Dùng cho:
-- Bài dài.
-- Bài phân tích.
-- Case ẩn danh.
-- Doctor POV dài.
-
-
-## Chat 5 — Performance & Repurpose
-Dùng cho:
-- Phân tích chỉ số.
 - Tái sử dụng nội dung thắng.
-- Tạo biến thể hook.
+
+AI không thay thế:
+- Chuyên môn bác sĩ.
+- Duyệt hình ảnh/case thật.
+- Quyết định y khoa.
+- Đồng ý sử dụng hình ảnh bệnh nhân/trẻ em.
 
 ---
 
-# 3. Prompt tạo ý tưởng 30 ngày
+# 2. Bộ chat nên có
+
+1. Brand Strategy.
+2. Content Pillars.
+3. Scripts.
+4. Facebook Long-form.
+5. Performance & Repurpose.
+6. Safety Review.
+
+---
+
+# 3. Prompt rewrite nội dung dịch vụ thành Doctor POV
 
 ```text
-Dựa trên toàn bộ tài liệu trong Project Bác Sĩ Thu - Truyền Thông, hãy đề xuất lịch nội dung 30 ngày cho thương hiệu cá nhân Bác sĩ Thu.
+Hãy viết lại nội dung dưới đây từ kiểu quảng bá dịch vụ/procedure-led sang kiểu doctor-led cho thương hiệu cá nhân Bác sĩ Thu.
+
+Nội dung gốc:
+[Dán nội dung]
 
 Yêu cầu:
-- Ưu tiên xây trust và authority, không bán hàng lộ.
-- Mỗi ngày có 1 ý tưởng video ngắn.
-- Mỗi tuần có 1 bài Facebook dài.
-- Có tỷ lệ cân bằng:
-  1. Mụn — thâm — sẹo
-  2. Nám/sắc tố
-  3. Laser an toàn
-  4. Đỏ da/PDL
-  5. Bạch biến/bớt
-  6. Chăm sóc sau thủ thuật
-  7. Da và Cuộc Sống
-  8. Doctor POV
+- Bác sĩ Thu là nhân vật chính.
+- Không để Pema/máy/dịch vụ là trung tâm.
+- Mở bằng nỗi lo người bệnh/phụ huynh nếu phù hợp.
+- Có góc nhìn bác sĩ: cần đánh giá gì, ai phù hợp, ai chưa phù hợp.
+- Có kỳ vọng thực tế.
+- Không dùng từ: bay màu, sạch 100%, đẹp kịp Tết, alo ngay.
+- CTA an toàn.
+```
+
+---
+
+# 4. Prompt tạo ý tưởng 30 ngày
+
+```text
+Dựa trên bộ tài liệu v1.3 reviewed của Project Bác Sĩ Thu - Truyền Thông, hãy đề xuất lịch nội dung 30 ngày.
+
+Ưu tiên:
+1. Hành trình trả lại tuổi thơ.
+2. Laser an toàn.
+3. Bạch biến/bớt nhân văn.
+4. Mụn — thâm — sẹo.
+5. Nám/sắc tố.
+6. Đỏ da/PIE/PDL.
+7. Aftercare.
+8. Doctor POV.
 
 Mỗi ý tưởng gồm:
 - Chủ đề
+- Pillar
 - Người xem
 - Nỗi đau/cảm xúc
 - Hiểu lầm
 - Hook emotion-first
 - Góc nhìn bác sĩ
+- Format
 - CTA an toàn
-- Format phù hợp
+- Điểm ưu tiên /100
 ```
 
 ---
 
-# 4. Prompt viết video 3 tầng
+# 5. Prompt viết video 3 tầng
 
 ```text
 Viết kịch bản video ngắn cho Bác sĩ Thu với chủ đề:
@@ -108,156 +93,99 @@ Viết kịch bản video ngắn cho Bác sĩ Thu với chủ đề:
 [Chủ đề]
 
 Yêu cầu:
-- Thời lượng 45–60 giây.
+- 45–60 giây.
 - Bác sĩ nói trực tiếp trước camera.
-- Không bắt đầu bằng định nghĩa bệnh nếu có thể bắt đầu bằng tình huống đời sống.
-- Người xem phải cảm thấy "Bác sĩ hiểu mình" trước khi cảm thấy "Bác sĩ hiểu bệnh".
-- Không cam kết khỏi 100%.
-- Không bán hàng lộ.
-- Không đưa phác đồ/thông số nội bộ.
+- Không bắt đầu bằng định nghĩa nếu có thể bắt đầu bằng tình huống đời sống.
+- Người xem phải cảm thấy bác sĩ hiểu mình trước khi thấy bác sĩ hiểu bệnh.
+- Có Doctor POV.
+- Có kỳ vọng thực tế.
+- Không cam kết kết quả.
+- Không quảng cáo lộ.
 - CTA an toàn.
 
-Cấu trúc đầu ra:
-1. Insight bệnh nhân
+Đầu ra:
+1. Insight bệnh nhân/phụ huynh
 2. Full Script
 3. Prompt Teleprompter 100–120 từ
-4. Cue Card gạch đầu dòng
+4. Cue Card
 5. Text overlay
 6. Caption
 7. Gợi ý cảnh quay
-8. Lưu ý kiểm duyệt y khoa
+8. Lưu ý safety
 ```
 
 ---
 
-# 5. Prompt viết Facebook long-form
+# 6. Prompt Facebook long-form/case diary
 
 ```text
-Viết bài Facebook long-form cho Bác sĩ Thu về chủ đề:
+Viết bài Facebook long-form cho Bác sĩ Thu về chủ đề/case đã ẩn danh:
 
-[Chủ đề]
+[Chủ đề/case]
 
 Yêu cầu:
-- Mở bài bằng tình huống đời sống hoặc cảm xúc bệnh nhân.
-- Sau đó mới giải thích chuyên môn.
-- Giọng văn ấm áp, rõ ràng, có góc nhìn bác sĩ.
-- Không quảng cáo lộ.
-- Không cam kết khỏi 100%.
-- Không đưa phác đồ/thông số nội bộ.
-- Có CTA an toàn cuối bài.
-
-Cấu trúc:
-1. Tình huống bệnh nhân thường gặp
-2. Cảm xúc/nỗi lo phía sau
-3. Góc nhìn bác sĩ
-4. Giải thích bản chất vấn đề
-5. Người bệnh nên làm gì
-6. CTA an toàn
+- Mở bằng tình huống đời sống hoặc cảm xúc thật.
+- Không khai thác quá mức đời tư bệnh nhân.
+- Có góc nhìn bác sĩ.
+- Giải thích chuyên môn dễ hiểu.
+- Nói rõ kỳ vọng thực tế.
+- Không quảng cáo dịch vụ.
+- Không cam kết kết quả.
+- CTA an toàn.
 ```
 
 ---
 
-# 6. Prompt tái sử dụng nội dung
+# 7. Prompt phân tích bài đã đăng
 
 ```text
-Dưới đây là một video/bài viết đã đăng:
+Dưới đây là nội dung đã đăng và chỉ số:
 
 [Nội dung]
-
-Chỉ số:
-- View:
-- Like:
-- Comment:
-- Share:
-- Save:
-- Inbox:
-- Ghi chú:
+View:
+Like:
+Comment:
+Share:
+Save:
+Inbox:
+Ghi chú:
 
 Hãy phân tích:
-1. Vì sao nội dung này hiệu quả/chưa hiệu quả?
-2. Hook có đủ mạnh không?
-3. Insight bệnh nhân có rõ không?
-4. Có đúng định vị Bác sĩ Thu không?
-5. Có thể tái sử dụng thành nội dung nào?
-6. Đề xuất:
+1. Nội dung này đang xây hình ảnh gì cho Bác sĩ Thu?
+2. Có doctor-led hay procedure-led?
+3. Có chạm insight không?
+4. Có làm Pema/dịch vụ thành trung tâm không?
+5. Có rủi ro safety không?
+6. Có nên tái sử dụng không?
+7. Đề xuất:
    - 5 hook mới
    - 3 video follow-up
    - 1 bài Facebook dài
-   - 1 carousel outline
+   - 1 carousel
    - 3 câu hỏi story
 ```
 
 ---
 
-# 7. Prompt tạo Doctor POV
+# 8. Workflow AI hàng tuần
 
-```text
-Tạo 10 ý tưởng Doctor POV cho Bác sĩ Thu về chủ đề:
-
-[Chủ đề]
-
-Yêu cầu:
-- Mỗi ý tưởng phải thể hiện cách bác sĩ suy nghĩ, cân nhắc hoặc từ chối.
-- Không bán hàng.
-- Không cam kết kết quả.
-- Có cảm xúc bệnh nhân.
-- Có hook ngắn.
-- Có CTA an toàn.
-
-Đầu ra:
-1. Hook
-2. Tình huống bệnh nhân
-3. Góc nhìn bác sĩ
-4. Một câu giải thích y khoa
-5. CTA
-```
+| Ngày | Việc |
+|---|---|
+| Thứ 2 | AI gom câu hỏi/bình luận và tạo 10 ý tưởng |
+| Thứ 3 | Chấm điểm, chọn 3–5 chủ đề |
+| Thứ 4 | Viết script 3 tầng |
+| Thứ 5 | Bác sĩ Thu duyệt, AI chỉnh tone/safety |
+| Thứ 6/7 | Quay batch |
+| Sau đăng 7 ngày | AI phân tích và đề xuất tái sử dụng |
 
 ---
 
-# 8. Prompt chuyển nội dung bệnh học sang emotion-first
+# 9. Quy tắc kiểm soát chất lượng
 
-```text
-Hãy chuyển nội dung dưới đây từ kiểu "giải thích bệnh học" sang kiểu "emotion-first".
-
-Nội dung gốc:
-[Dán nội dung]
-
-Yêu cầu:
-- Không bắt đầu bằng định nghĩa.
-- Mở đầu bằng tình huống đời sống thật.
-- Gọi tên cảm xúc bệnh nhân.
-- Sau đó mới giải thích y khoa.
-- Giữ tone của Bác sĩ Thu: chuyên môn, ấm áp, điềm tĩnh.
-- Không cam kết kết quả.
-```
-
----
-
-# 10. Quy trình AI hàng tuần
-
-## Thứ 2
-AI lên 10 ý tưởng từ bình luận/câu hỏi.
-
-## Thứ 3
-Chấm điểm ý tưởng, chọn 3–5 chủ đề.
-
-## Thứ 4
-AI viết script 3 tầng.
-
-## Thứ 5
-Bác sĩ Thu duyệt, AI chỉnh tone.
-
-## Thứ 6/7
-Quay batch.
-
-## Sau khi đăng
-AI phân tích hiệu quả và đề xuất follow-up.
-
----
-
-# 11. Quy tắc kiểm soát chất lượng AI
-
-Không dùng trực tiếp nội dung AI nếu chưa kiểm tra:
-
+Không dùng nội dung AI nếu chưa kiểm tra:
 - Chuyên môn.
-- Phù hợp hình ảnh Bác sĩ Thu.
+- Tone Bác sĩ Thu.
+- Safety.
+- Quyền riêng tư bệnh nhân/trẻ em.
+- Mức độ quảng cáo.
+- Vai trò của Pema/máy/dịch vụ.
