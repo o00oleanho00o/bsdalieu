@@ -104,13 +104,6 @@ Người xem cần cảm nhận:
 - “Bác sĩ sẽ chia sẻ thêm về phần này trong bài sau.”
 - “Bạn có thể lưu lại để tránh xử lý nóng vội.”
 
-### 3.6. Không nên làm
-
-- Đăng quá nhiều bảng giá/ưu đãi.
-- Gắn tên Pema quá dày ở mọi bài.
-- Đăng before/after thiếu giải thích chuyên môn.
-- Dùng câu như “cam kết”, “hết sạch”, “làm một lần thấy ngay”.
-
 ---
 
 ## 4. Fanpage
@@ -299,12 +292,6 @@ Story giúp duy trì nhịp gần gũi và cho thấy Bác sĩ Thu là người 
 - Nhắc lại một post/video vừa đăng.
 - Một lời khuyên nhỏ sau thủ thuật.
 
-### 7.3. Không nên làm
-
-- Đăng quá nhiều đời tư không liên quan thương hiệu.
-- Đăng ảnh bệnh nhân thiếu xin phép.
-- Đăng hình thủ thuật quá nhạy cảm.
-- Dùng sticker/CTA bán hàng quá dày.
 
 ---
 
@@ -326,14 +313,6 @@ Story giúp duy trì nhịp gần gũi và cho thấy Bác sĩ Thu là người 
 - “Trong thực tế thăm khám, bác sĩ cần đánh giá nền da trước khi chọn công nghệ.”
 - “Không phải ca nào cũng cần laser ngay.”
 - “Nếu tình trạng phức tạp, bạn nên thăm khám trực tiếp.”
-
-### 8.3. Cách nói nên tránh
-
-- “Pema cam kết khỏi…”
-- “Đến Pema là hết…”
-- “Công nghệ độc quyền trị dứt điểm…”
-- “Inbox ngay để nhận ưu đãi.”
-- “Chỉ hôm nay…”
 
 ---
 
@@ -401,8 +380,6 @@ Với mỗi video:
 
 Kiểm tra:
 
-- Không cam kết khỏi 100%.
-- Không phác đồ/thông số nội bộ.
 - Không quảng cáo lộ.
 - Không để Pema là trung tâm.
 - Có CTA an toàn.
@@ -491,14 +468,10 @@ Trước khi đăng, kiểm tra:
 
 1. Nội dung có đúng định vị Bác sĩ Thu không?
 2. Có làm rõ góc nhìn bác sĩ không?
-3. Có đang bán dịch vụ quá lộ không?
-4. Có hứa hẹn quá mức không?
-5. Có tiết lộ phác đồ/thông số nội bộ không?
-6. Có làm người xem hiểu nhầm rằng họ có thể tự điều trị không?
-7. Có nhắc Pema đúng vai trò bối cảnh không?
-8. CTA có an toàn không?
-9. Video có một ý chính rõ không?
-10. Text overlay có dễ đọc không?
+3. Có làm người xem hiểu nhầm rằng họ có thể tự điều trị không?
+4. CTA có an toàn không?
+5. Video có một ý chính rõ không?
+6. Text overlay có dễ đọc không?
 
 ---
 

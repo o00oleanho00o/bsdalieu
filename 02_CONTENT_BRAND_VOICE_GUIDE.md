@@ -10,10 +10,9 @@
 Bác sĩ Thu nên có giọng:
 
 - Chuyên môn nhưng dễ hiểu.
-- Ấm áp nhưng không sến.
-- Điềm tĩnh nhưng không lạnh.
+- Ấm áp.
 - Gần gũi nhưng không suồng sã.
-- Có quan điểm nhưng không phán xét.
+- Có quan điểm
 - An toàn nhưng không khô cứng.
 
 ---
@@ -36,7 +35,6 @@ Bác sĩ Thu nên có giọng:
 - Mỗi video chỉ có một ý chính.
 - Dùng câu ngắn.
 - Có ví dụ đời sống.
-- Dùng từ "có thể", "thường", "tùy từng trường hợp".
 - Giải thích thuật ngữ ngay sau khi dùng.
 
 ## Không nên
@@ -46,7 +44,6 @@ Bác sĩ Thu nên có giọng:
 - Dùng quá nhiều thuật ngữ.
 - Nói quá nhanh.
 - Hứa hẹn quá mức.
-- Dùng câu gây sợ hãi.
 - Chê bai nơi khác.
 
 ---
@@ -75,45 +72,10 @@ Bác sĩ Thu nên có giọng:
 - "Có những trường hợp tôi khuyên..."
 - "Điều tôi quan tâm đầu tiên là..."
 
----
-
-# 5. Từ nên dùng
-
-| Nhóm | Từ/cụm từ phù hợp |
-|---|---|
-| An toàn | đánh giá, phân loại, theo dõi, phù hợp, đúng chỉ định |
-| Kỳ vọng | cải thiện, kiểm soát, hỗ trợ, giảm nguy cơ, thực tế |
-| Đồng cảm | tôi hiểu, nhiều người gặp, điều này dễ làm bạn lo |
-| Bác sĩ | ở góc nhìn bác sĩ, khi thăm khám, bác sĩ cần đánh giá |
-| Hành động | nên thăm khám, nên kiểm tra, nên hỏi bác sĩ điều trị |
 
 ---
 
-# 6. Từ nên tránh
-
-| Không nên dùng | Lý do | Thay bằng |
-|---|---|---|
-| khỏi 100% | cam kết quá mức | có thể cải thiện tùy trường hợp |
-| hết vĩnh viễn | gây kỳ vọng sai | cần kiểm soát/tái khám/duy trì |
-| trị dứt điểm | không an toàn y khoa | điều trị/kiểm soát/cải thiện |
-| sạch nám | quá tuyệt đối | mờ nám/cải thiện sắc tố |
-| đầy sẹo | quá cam kết | cải thiện bề mặt sẹo |
-| cam kết | rủi ro pháp lý/truyền thông | bác sĩ sẽ đánh giá và tư vấn |
-| tốt nhất | quá tuyệt đối | phù hợp hơn với từng trường hợp |
-| thần kỳ | quảng cáo lộ | có cơ chế hỗ trợ |
-| hỏng mặt/toang/chết da | gây sợ hãi | có thể làm tình trạng nặng hơn |
-
----
-
-# 7. Cấu trúc câu nên dùng
-
-## Câu thận trọng
-
-- "Không phải trường hợp nào cũng..."
-- "Tùy nền da và tình trạng cụ thể..."
-- "Bác sĩ cần đánh giá trực tiếp..."
-- "Không nên tự kết luận chỉ qua ảnh."
-- "Đây là thông tin giáo dục, không thay thế thăm khám."
+# 5. Cấu trúc câu nên dùng
 
 ## Câu đồng cảm
 
@@ -131,7 +93,7 @@ Bác sĩ Thu nên có giọng:
 
 ---
 
-# 8. Mẫu giọng cho video ngắn
+# 6. Mẫu giọng cho video ngắn
 
 ## Không nên
 
@@ -143,7 +105,7 @@ Bác sĩ Thu nên có giọng:
 
 ---
 
-# 9. Mẫu giọng cho Facebook long-form
+# 7. Mẫu giọng cho Facebook long-form
 
 Mở đầu nên có tình huống:
 
@@ -159,11 +121,7 @@ Rồi đưa chuyên môn:
 
 ---
 
-# 10. CTA chuẩn
-
-## Video ngắn
-
-> Nếu bạn gặp tình trạng tương tự, nên thăm khám với bác sĩ da liễu để được đánh giá đúng.
+# 8. Khuyến cáo chuẩn (Disclaimer)
 
 ## Bài Facebook
 

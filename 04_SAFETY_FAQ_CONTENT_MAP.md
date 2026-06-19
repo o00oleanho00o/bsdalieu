@@ -203,21 +203,8 @@ Các câu hỏi này có thể dùng ở cuối bài hoặc trong nội dung Fan
 
 ---
 
-# 13. Checklist kiểm duyệt FAQ trước khi đăng
 
-Trước khi đăng câu trả lời FAQ, kiểm tra:
-
-1. Có lỡ chẩn đoán cá nhân qua mạng không?
-2. Có hứa kết quả tuyệt đối không?
-3. Có dùng từ “khỏi hẳn”, “hết sạch”, “trị dứt điểm” không?
-4. Có đưa phác đồ, liều lượng hoặc thông số nội bộ không?
-5. Có làm người xem quá sợ không?
-6. Có hạ thấp nơi khác không?
-7. CTA có hướng về thăm khám an toàn không?
-
----
-
-# 14. Kết luận
+# 13. Kết luận
 
 Bản đồ FAQ này giúp team không bị bí ý tưởng. Mỗi câu hỏi bệnh nhân có thể trở thành:
 

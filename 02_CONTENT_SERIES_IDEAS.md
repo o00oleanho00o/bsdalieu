@@ -482,12 +482,6 @@ Facebook cá nhân, fanpage, nhóm người cần trust trước khi đặt lị
 9. Một ca bệnh nhân kỳ vọng quá nhanh và cần được giải thích lại.
 10. Một câu chuyện về việc bác sĩ nói “chưa nên làm”.
 
-## Lưu ý an toàn
-
-- Luôn ẩn danh.
-- Không dùng ảnh nhận diện nếu chưa có đồng ý rõ ràng.
-- Không biến case thành lời hứa kết quả.
-- Không nêu phác đồ cá nhân hóa chi tiết.
 
 ---
 
@@ -573,7 +567,6 @@ Trước khi quay batch, mỗi series cần có:
 - Text overlay.
 - Caption ngắn.
 - CTA an toàn.
-- Ghi chú kiểm duyệt y khoa.
 - Kênh đăng ưu tiên.
 
 ---

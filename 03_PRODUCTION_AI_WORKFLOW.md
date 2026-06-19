@@ -59,14 +59,8 @@ Dùng cho:
 - Case ẩn danh.
 - Doctor POV dài.
 
-## Chat 5 — Medical Safety Review
-Dùng cho:
-- Kiểm tra cam kết quá mức.
-- Kiểm tra chẩn đoán online.
-- Kiểm tra phác đồ/thông số.
-- Làm mềm câu chữ.
 
-## Chat 6 — Performance & Repurpose
+## Chat 5 — Performance & Repurpose
 Dùng cho:
 - Phân tích chỉ số.
 - Tái sử dụng nội dung thắng.
@@ -163,30 +157,7 @@ Cấu trúc:
 
 ---
 
-# 6. Prompt kiểm duyệt an toàn
-
-```text
-Hãy kiểm tra nội dung dưới đây theo tiêu chuẩn truyền thông y khoa an toàn cho thương hiệu cá nhân Bác sĩ Thu.
-
-Nội dung:
-[Dán nội dung]
-
-Kiểm tra:
-1. Có câu nào cam kết quá mức không?
-2. Có câu nào dễ bị hiểu là chẩn đoán online không?
-3. Có tiết lộ phác đồ, thông số, liều lượng hoặc quy trình nội bộ không?
-4. Có quảng cáo lộ quá không?
-5. Có gây sợ hãi quá mức không?
-6. Có hạ thấp bác sĩ/phòng khám khác không?
-7. CTA đã an toàn chưa?
-8. Đề xuất bản chỉnh sửa tự nhiên hơn.
-
-Giữ giọng văn gần gũi, không làm nội dung quá khô cứng.
-```
-
----
-
-# 7. Prompt tái sử dụng nội dung
+# 6. Prompt tái sử dụng nội dung
 
 ```text
 Dưới đây là một video/bài viết đã đăng:
@@ -218,7 +189,7 @@ Hãy phân tích:
 
 ---
 
-# 8. Prompt tạo Doctor POV
+# 7. Prompt tạo Doctor POV
 
 ```text
 Tạo 10 ý tưởng Doctor POV cho Bác sĩ Thu về chủ đề:
@@ -243,7 +214,7 @@ Yêu cầu:
 
 ---
 
-# 9. Prompt chuyển nội dung bệnh học sang emotion-first
+# 8. Prompt chuyển nội dung bệnh học sang emotion-first
 
 ```text
 Hãy chuyển nội dung dưới đây từ kiểu "giải thích bệnh học" sang kiểu "emotion-first".
@@ -257,7 +228,6 @@ Yêu cầu:
 - Gọi tên cảm xúc bệnh nhân.
 - Sau đó mới giải thích y khoa.
 - Giữ tone của Bác sĩ Thu: chuyên môn, ấm áp, điềm tĩnh.
-- Không làm quá cảm xúc.
 - Không cam kết kết quả.
 ```
 
@@ -290,8 +260,4 @@ AI phân tích hiệu quả và đề xuất follow-up.
 Không dùng trực tiếp nội dung AI nếu chưa kiểm tra:
 
 - Chuyên môn.
-- Claim.
-- CTA.
-- Tone.
-- Ranh giới tư vấn cá nhân.
 - Phù hợp hình ảnh Bác sĩ Thu.

@@ -10,8 +10,6 @@
 - Một video chỉ nên có một ý chính.
 - Hook 3 giây đầu phải rõ.
 - Không bắt đầu bằng định nghĩa bệnh nếu có thể bắt đầu bằng đời sống.
-- Không đưa phác đồ, liều lượng, thông số nội bộ.
-- Không cam kết kết quả.
 - Nói như tư vấn, không nói như quảng cáo.
 - Bác sĩ Thu là nhân vật chính; Pema chỉ là bối cảnh nếu cần.
 
@@ -224,9 +222,6 @@ Sau 7 ngày ghi lại:
 - [ ] Một video chỉ có một ý chính.
 - [ ] Có tình huống đời sống/cảm xúc nếu phù hợp.
 - [ ] Có Doctor POV.
-- [ ] Không cam kết kết quả.
-- [ ] Không đưa phác đồ/thông số.
-- [ ] Không chẩn đoán cá nhân.
 - [ ] CTA an toàn.
 - [ ] Caption không quảng cáo lộ.
 - [ ] Phụ đề dễ đọc.

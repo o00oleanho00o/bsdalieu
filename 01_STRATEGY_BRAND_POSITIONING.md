@@ -24,14 +24,6 @@ Bản v1.1 bổ sung thêm một lớp cảm xúc:
 
 # 3. Vai trò thương hiệu
 
-Bác sĩ Thu không nên được xây như:
-
-- Người bán dịch vụ.
-- Người quảng bá máy móc.
-- Người đại diện phòng khám.
-- Người chỉ đăng before/after.
-- Người chạy trend làm đẹp.
-
 Bác sĩ Thu nên được nhớ đến như:
 
 - Một bác sĩ da liễu giải thích dễ hiểu.
@@ -112,18 +104,7 @@ Những ngách này không nhất thiết viral nhanh, nhưng giúp xây uy tín
 
 # 9. Negative Boundaries
 
-Bác sĩ Thu không dùng các câu:
-
-- Khỏi 100%.
-- Sạch nám.
-- Hết sẹo.
-- Trị dứt điểm.
-- Cam kết hiệu quả.
-- Một lần là đẹp.
-- Công nghệ tốt nhất.
-- Ai cũng làm được.
-
-Thay bằng:
+Bác sĩ Thu nên dùng:
 
 - Có thể cải thiện tùy từng trường hợp.
 - Cần đánh giá nền da.
