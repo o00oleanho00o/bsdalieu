@@ -98,7 +98,6 @@ Nếu cần rà lại nguyên tắc chung, đọc file này.
 - Thông điệp lõi.
 - Bác sĩ Thu nên được nhớ đến vì điều gì.
 - Vai trò của Pema.
-- Ranh giới không nên làm.
 
 ### `01_STRATEGY_CUSTOMER_PERSONA.md`
 
@@ -164,7 +163,6 @@ Nếu cần rà lại nguyên tắc chung, đọc file này.
 - Chỉnh câu chữ.
 - Viết caption.
 - Viết lời thoại trước camera.
-- Tránh từ cam kết, giật gân, quảng cáo lộ.
 
 ### `02_CONTENT_CONTENT_SCORING_SYSTEM.md`
 
@@ -191,7 +189,6 @@ Kèm:
 - Text overlay.
 - Caption.
 - Gợi ý cảnh quay.
-- Lưu ý kiểm duyệt y khoa.
 
 ### `03_PRODUCTION_CONTENT_PRODUCTION_SYSTEM.md`
 
@@ -252,7 +249,6 @@ Kèm:
 - Caption.
 - Gợi ý cảnh quay.
 - CTA an toàn.
-- Lưu ý kiểm duyệt y khoa.
 
 ---
 
@@ -324,11 +320,7 @@ Kèm:
 
 Kiểm tra:
 - Có cam kết quá mức không?
-- Có chẩn đoán online không?
-- Có phác đồ/thông số nội bộ không?
 - Có quảng cáo lộ không?
-- Có gây sợ hãi không?
-- CTA có an toàn không?
 
 ---
 
@@ -355,18 +347,9 @@ Kiểm tra:
 # 6. Nguyên tắc an toàn bắt buộc
 
 Luôn tránh:
-- Khỏi 100%.
-- Hết vĩnh viễn.
-- Trị dứt điểm.
-- Sạch nám.
-- Đầy sẹo hoàn toàn.
 - Cam kết kết quả.
-- Công nghệ tốt nhất cho mọi người.
-- Chẩn đoán cá nhân qua ảnh/bình luận.
-- Đưa phác đồ, thông số kỹ thuật, liều lượng hoặc quy trình nội bộ.
 - Quảng cáo lộ liễu.
 - Hạ thấp bác sĩ/phòng khám khác.
-- Gây sợ hãi quá mức.
 
 Thay bằng:
 - Có thể cải thiện tùy từng trường hợp.
@@ -407,7 +390,5 @@ Mỗi nội dung phải giúp người xem nghĩ:
 > **"Bác sĩ này hiểu vấn đề của mình, nói rõ ràng, không hứa quá, và có trách nhiệm."**
 
 Nếu nội dung chỉ đúng chuyên môn nhưng chưa chạm người bệnh, hãy viết lại theo framework emotion-first.
-
-Nếu nội dung có thể gây kỳ vọng sai, hãy chỉnh lại theo hướng an toàn hơn.
 
 Nếu nội dung biến Bác sĩ Thu thành người bán dịch vụ, hãy đưa lại về góc nhìn bác sĩ.

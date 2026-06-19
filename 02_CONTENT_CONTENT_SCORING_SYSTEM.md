@@ -97,9 +97,7 @@ Ví dụ cao điểm:
 
 - Da khỏe trước, đẹp sau.
 - Điều trị đúng trước, làm đẹp sau.
-- Không thần thánh hóa công nghệ.
 - Không bán hàng lộ.
-- Không hứa hẹn.
 
 ---
 
@@ -117,11 +115,7 @@ Ví dụ cao điểm:
 
 Trừ điểm nếu:
 
-- Dễ bị hiểu là chẩn đoán online.
 - Dễ thành quảng cáo dịch vụ.
-- Dễ phải nói thông số/phác đồ.
-- Dễ gây sợ hãi.
-- Dễ bị hiểu là cam kết hiệu quả.
 
 ---
 
@@ -206,7 +200,4 @@ Cần chỉnh:
 - [ ] Có cảm xúc hoặc tình huống đời sống.
 - [ ] Có góc nhìn bác sĩ.
 - [ ] Có lời khuyên thực tế.
-- [ ] Không cần case hình ảnh nhạy cảm.
-- [ ] Không phải nói phác đồ/thông số.
-- [ ] Không cam kết kết quả.
 - [ ] Dễ quay trong 1–2 take.

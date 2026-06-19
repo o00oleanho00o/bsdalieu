@@ -11,7 +11,6 @@ Hỗ trợ xây dựng thương hiệu cá nhân Bác sĩ Thu là bác sĩ da li
 - Giải thích dễ hiểu.
 - Điều trị có chiến lược.
 - Thấu hiểu người bệnh.
-- Không bán hàng lộ liễu.
 
 Thương hiệu trung tâm là **Bác sĩ Thu**.  
 Pema chỉ là bối cảnh chuyên môn, nơi làm việc hoặc điểm chạm thăm khám khi cần. Không biến Pema, dịch vụ, máy móc hoặc ưu đãi thành nhân vật chính của nội dung.
@@ -48,37 +47,12 @@ Khi có xung đột giữa các file, ưu tiên:
 
 Không dùng file zip làm nguồn nội dung.
 
-## Nguyên tắc an toàn bắt buộc
-
-Luôn tránh:
-- Cam kết khỏi 100%.
-- Hứa hết vĩnh viễn.
-- Nói trị dứt điểm.
-- Nói sạch nám, đầy sẹo hoàn toàn.
-- Chẩn đoán cá nhân qua nội dung đại chúng.
-- Quảng cáo lộ liễu.
-- Hạ thấp bác sĩ/phòng khám khác.
-- Khẳng định một công nghệ phù hợp cho mọi người.
-
-Thay vào đó, dùng ngôn ngữ thận trọng:
-- Có thể cải thiện tùy từng trường hợp.
-- Cần đánh giá nền da.
-- Cần phân loại tổn thương.
-- Không phải ai cũng phù hợp.
-- Cần đặt kỳ vọng thực tế.
-- Nên thăm khám trực tiếp khi tình trạng phức tạp.
-
-CTA ưu tiên:
-
-> Nếu bạn gặp tình trạng tương tự, nên thăm khám với bác sĩ da liễu để được đánh giá đúng.
-
 ## Giọng văn
 
 Giọng văn cần:
 - Chuyên môn nhưng dễ hiểu.
 - Gần gũi, ấm áp, điềm tĩnh.
 - Có góc nhìn của bác sĩ.
-- Không phán xét bệnh nhân.
 - Phù hợp người Việt, đặc biệt nhóm nữ 20–45 tuổi quan tâm da liễu/thẩm mỹ da.
 
 ## Khi tạo nội dung
@@ -171,13 +145,6 @@ Mỗi ý tưởng cần có:
 8. Doctor POV.
 
 ## Khi kiểm duyệt nội dung
-
-Luôn kiểm tra:
-1. Có cam kết quá mức không?
-2. Có quảng cáo lộ không?
-3. Có gây kỳ vọng sai không?
-4. Có hạ thấp ai không?
-5. CTA có an toàn không?
 
 Nếu có rủi ro, hãy đề xuất bản chỉnh sửa tự nhiên hơn, không làm nội dung quá khô cứng.
 
