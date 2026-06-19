@@ -1,72 +1,75 @@
-# VIDEO_PRODUCTION_WORKFLOW_V2
+# VIDEO_PRODUCTION_WORKFLOW_v1.3_REVIEWED
 
-**Phiên bản:** 2.0  
-**Mục tiêu:** Chuẩn hóa quy trình sản xuất video ngắn cho Bác sĩ Thu theo hướng dễ quay, dễ nói, không đọc như MC và phù hợp đa nền tảng.
+**Mục tiêu:** Chuẩn hóa sản xuất video ngắn cho Bác sĩ Thu sau audit Facebook.  
+**Thay đổi chính:** Tăng video bác sĩ nói trực tiếp, giảm video chỉ có thủ thuật/máy móc.
 
 ---
 
 # 1. Nguyên tắc video ngắn
 
-- Một video chỉ nên có một ý chính.
-- Hook 3 giây đầu phải rõ.
-- Không bắt đầu bằng định nghĩa bệnh nếu có thể bắt đầu bằng đời sống.
-- Nói như tư vấn, không nói như quảng cáo.
-- Bác sĩ Thu là nhân vật chính; Pema chỉ là bối cảnh nếu cần.
+- Một video chỉ có một ý chính.
+- Hook rõ trong 3 giây đầu.
+- Không bắt đầu bằng dịch vụ nếu có thể bắt đầu bằng nỗi lo người bệnh.
+- Bác sĩ Thu là nhân vật chính.
+- Pema, máy móc, thủ thuật chỉ là bối cảnh.
+- Không nói như quảng cáo.
+- Không hứa kết quả.
+- Có CTA an toàn.
 
 ---
 
-# 2. 3 tầng nội dung bắt buộc
+# 2. Tỷ lệ format v1.3
 
-Mỗi video ngắn cần có 3 tầng đầu ra:
+Trong 30 ngày đầu:
 
-## Tầng 1 — Full Script
+| Format | Tỷ lệ |
+|---|---:|
+| Bác sĩ nói trực tiếp trước camera | 50% |
+| Bác sĩ giải thích trên ảnh/case ẩn danh | 20% |
+| FAQ/myth-busting | 15% |
+| Aftercare/checklist | 10% |
+| Thủ thuật/máy móc đơn thuần | tối đa 5% |
 
-Kịch bản đầy đủ để hiểu nội dung.
-
-Bao gồm:
-- Hook
-- Nỗi đau/hiểu lầm
-- Giải thích
-- Lời khuyên
-- CTA
-
-Độ dài: 45–60 giây.
-
-## Tầng 2 — Prompt Teleprompter
-
-Phiên bản rút gọn để đưa vào điện thoại nhắc chữ.
-
-Yêu cầu:
-- Chỉ giữ câu quan trọng.
-- 100–120 từ.
-- Dễ đọc khi quay.
-- Không quá văn viết.
-
-## Tầng 3 — Cue Card
-
-Phiên bản gạch đầu dòng để nói tự nhiên.
-
-Yêu cầu:
-- 5–7 bullet.
-- Không cần câu hoàn chỉnh.
-- Dùng khi bác sĩ không muốn đọc teleprompter.
+Nếu dùng video thủ thuật, phải có voiceover hoặc caption giải thích Doctor POV.
 
 ---
 
-# 3. Cấu trúc video chuẩn v2
+# 3. 3 tầng nội dung bắt buộc
+
+## 1. Full Script
+
+45–60 giây, gồm:
+- Hook.
+- Nỗi đau/hiểu lầm.
+- Doctor POV.
+- Giải thích.
+- Kỳ vọng thực tế.
+- CTA.
+
+## 2. Prompt Teleprompter
+
+100–120 từ, dễ đọc trên điện thoại.
+
+## 3. Cue Card
+
+5–7 bullet để bác sĩ nói tự nhiên.
+
+---
+
+# 4. Cấu trúc video chuẩn
 
 ```text
-0–3s: Emotion-first hook
-3–10s: Tình huống/nỗi đau
+0–3s: Hook cảm xúc/hiểu lầm
+3–10s: Tình huống người bệnh/phụ huynh
 10–20s: Doctor POV
-20–45s: Giải thích đúng
-45–55s: Lời khuyên thực tế
-55–60s: CTA an toàn
+20–40s: Giải thích đúng
+40–50s: Kỳ vọng thực tế/lời khuyên
+50–60s: CTA an toàn
 ```
 
 ---
 
-# 4. Template sản xuất video
+# 5. Template sản xuất video
 
 ```text
 Chủ đề:
@@ -87,141 +90,81 @@ CTA:
 
 ---
 
-# 5. Ví dụ video hoàn chỉnh
+# 6. Checklist safety với case/trẻ em
+
+Trước khi dùng hình ảnh/câu chuyện:
+- [ ] Đã có sự đồng ý phù hợp.
+- [ ] Không lộ thông tin nhạy cảm không cần thiết.
+- [ ] Không dùng hình ảnh để hứa kết quả chung.
+- [ ] Không đặt chữ/logo che cảm xúc chính.
+- [ ] Không kể chi tiết riêng tư quá mức.
+- [ ] Có câu kỳ vọng thực tế.
+- [ ] Có CTA thăm khám trực tiếp khi cần.
+
+---
+
+# 7. Ví dụ video v1.3
 
 ## Chủ đề
-Mụn còn viêm có nên trị sẹo chưa?
+Bớt rượu vang ở trẻ có nên khám sớm không?
 
-## Pillar
-Mụn — thâm — sẹo có chiến lược
-
-## Người xem
-16–35 tuổi, mụn viêm, sợ sẹo rỗ, đang nóng vội muốn xử lý sẹo.
-
-## Insight cảm xúc
-Người bệnh không chỉ sợ mụn, mà sợ sẹo rỗ sẽ ở lại lâu dài.
+## Insight
+Phụ huynh không chỉ sợ vết bớt, mà sợ con lớn lên tự ti hoặc bị bạn bè trêu.
 
 ## Full Script
-Mụn còn viêm, đừng vội trị sẹo.
 
-Tôi hiểu vì sao nhiều bạn rất sốt ruột. Khi nhìn thấy da bắt đầu lõm, ai cũng muốn xử lý thật nhanh để sẹo không nặng hơn.
+Có những bố mẹ đưa con đi khám không phải vì vết bớt làm con đau, mà vì sợ sau này con lớn lên sẽ tự ti.
 
-Nhưng ở góc nhìn bác sĩ, nếu mụn viêm vẫn còn hoạt động, việc trị sẹo quá sớm có thể khiến bạn thất vọng.
+Tôi hiểu nỗi lo đó. Khi bớt nằm ở vùng mặt, phụ huynh thường phân vân: nên chờ con lớn hay nên khám sớm?
 
-Vì lúc đó, mình đang cố cải thiện sẹo cũ, nhưng mụn mới vẫn có thể tiếp tục tạo thêm sẹo mới.
+Ở góc nhìn bác sĩ, việc đầu tiên là xác định đúng loại tổn thương: đó có phải bớt rượu vang không, vị trí ở đâu, mức độ thế nào và có cần theo dõi hay can thiệp sớm không.
 
-Thứ tự thường nên là: kiểm soát mụn viêm trước, ổn định nền da, phân biệt thâm đỏ/thâm nâu, rồi mới đánh giá loại sẹo và chọn phương pháp phù hợp.
+Không nên tự kết luận qua ảnh, và cũng không nên kỳ vọng một lần là hết. Điều trị bớt thường là hành trình cần đánh giá từng bé.
 
-Nếu bạn vừa có mụn viêm vừa có sẹo rỗ, nên thăm khám để bác sĩ đánh giá đúng thứ tự xử lý.
+Nếu con có mảng đỏ hoặc bớt trên da, phụ huynh nên đưa bé thăm khám da liễu để được tư vấn thời điểm phù hợp.
 
 ## Teleprompter
-Mụn còn viêm, đừng vội trị sẹo.
 
-Tôi hiểu vì sao nhiều bạn rất sốt ruột khi thấy da bắt đầu lõm.
+Có những bố mẹ đưa con đi khám vì sợ sau này con sẽ tự ti với vết bớt trên mặt.
 
-Nhưng nếu mụn viêm vẫn hoạt động, mình đang vừa trị sẹo cũ, vừa có nguy cơ tạo thêm sẹo mới.
+Tôi hiểu nỗi lo đó. Nhưng điều đầu tiên không phải là hỏi dùng máy gì, mà là xác định đúng loại tổn thương: có phải bớt rượu vang không, vị trí và mức độ ra sao.
 
-Vì vậy, thứ tự thường là: kiểm soát mụn trước, ổn định nền da, rồi mới đánh giá loại sẹo và chọn phương pháp phù hợp.
+Không nên tự kết luận qua ảnh, và cũng không nên kỳ vọng một lần là hết. Điều trị bớt thường là hành trình cần đánh giá từng bé.
 
-Nếu bạn vừa có mụn viêm vừa có sẹo, nên thăm khám để bác sĩ đánh giá đúng thứ tự xử lý.
+Nếu con có bớt hoặc mảng đỏ trên da, phụ huynh nên đưa bé khám da liễu để được tư vấn phù hợp.
 
 ## Cue Card
-- Hook: Mụn còn viêm, đừng vội trị sẹo
-- Người bệnh sốt ruột
-- Bác sĩ hiểu cảm giác đó
-- Mụn mới vẫn tạo sẹo mới
-- Kiểm soát mụn trước
-- Đánh giá sẹo sau
-- CTA thăm khám
+
+- Hook: bố mẹ sợ con tự ti
+- Không bắt đầu bằng máy
+- Cần xác định loại bớt
+- Vị trí/mức độ/thời điểm
+- Không hứa một lần là hết
+- Điều trị là hành trình
+- CTA khám da liễu
 
 ## Text Overlay
-- Mụn viêm trước, sẹo sau
-- Đừng trị sẹo quá sớm
-- Cần đi đúng thứ tự
+
+- “Bớt ở trẻ: chờ lớn hay khám sớm?”
+- “Không tự kết luận qua ảnh”
+- “Điều trị là một hành trình”
 
 ## Caption
-Mụn, thâm và sẹo không nên xử lý nóng vội.
 
-Nếu mụn viêm vẫn đang hoạt động, việc trị sẹo quá sớm có thể khiến bạn kỳ vọng sai. Kiểm soát mụn trước sẽ giúp giảm nguy cơ tạo sẹo mới và giúp da sẵn sàng hơn cho các bước điều trị tiếp theo.
+Khi trẻ có bớt trên mặt, nỗi lo của phụ huynh thường không chỉ nằm ở vùng da đổi màu. Đó còn là nỗi lo con lớn lên có thể tự ti hoặc bị bạn bè chú ý.
 
-Nếu bạn gặp tình trạng tương tự, nên thăm khám với bác sĩ da liễu để được đánh giá đúng.
+Ở góc nhìn bác sĩ, bước đầu tiên là xác định đúng loại tổn thương và đánh giá thời điểm phù hợp để theo dõi hoặc can thiệp. Không nên tự kết luận qua ảnh và không nên kỳ vọng một lần là hết.
+
+Nếu con có bớt hoặc mảng đỏ trên da, phụ huynh nên đưa bé thăm khám da liễu để được tư vấn cá nhân hóa.
 
 ## Gợi ý cảnh quay
+
 - Bác sĩ nói trực tiếp trước camera.
-- Có thể cầm bảng nhỏ ghi: Mụn viêm → Thâm → Sẹo.
-- Không cần hình before/after.
+- Có thể dùng hình minh họa đơn giản, không cần show cận case nếu chưa cần.
+- Nền phòng khám gọn, ánh sáng ấm, mic rõ.
 
 ## Lưu ý safety
-- Không nói "trị hết sẹo".
-- Không chỉ định công nghệ cụ thể cho mọi người.
-- Không nói phác đồ cá nhân hóa.
 
----
-
-# 6. Quy trình sản xuất theo batch
-
-## Bước 1 — Chọn chủ đề
-Mỗi tháng chọn 12–20 video.
-
-Gợi ý tỷ lệ:
-- 4 video mụn/thâm/sẹo.
-- 3 video nám/sắc tố.
-- 3 video laser an toàn.
-- 2 video đỏ da/PDL.
-- 2 video aftercare.
-- 2 video Doctor POV.
-- 2 video Da và Cuộc Sống.
-
-## Bước 2 — Viết 3 tầng script
-Mỗi chủ đề phải có:
-- Full Script.
-- Teleprompter.
-- Cue Card.
-
-## Bước 3 — Bác sĩ Thu duyệt chuyên môn
-Kiểm tra:
-- Đúng chuyên môn?
-- Có nói quá không?
-- Có dễ hiểu không?
-- Có cần thêm disclaimer không?
-
-## Bước 4 — Quay
-- Quay theo batch 2–3 giờ.
-- 10–20 video/buổi.
-- Dùng mic rõ.
-- Ánh sáng ổn định.
-- Camera ngang mắt.
-- Nền gọn, chuyên nghiệp.
-
-## Bước 5 — Edit
-- Video dọc 9:16.
-- Cắt nhịp nhanh nhưng không quá giật.
-- Phụ đề rõ.
-- Text overlay ngắn.
-- 1–2 key phrase nổi bật.
-- Không nhạc quá ồn.
-
-## Bước 6 — Đăng đa nền tảng
-- TikTok/Reels/Shorts: cùng video, chỉnh caption/tiêu đề theo nền tảng.
-- Facebook cá nhân: thêm caption có góc nhìn bác sĩ.
-- Fanpage: có thể đăng lại với phần giải thích dài hơn.
-
-## Bước 7 — Phân tích
-Sau 7 ngày ghi lại:
-- View.
-- Watch time nếu có.
-- Like/comment/share/save.
-- Câu hỏi bình luận.
-- Chủ đề nào nên làm tiếp.
-
----
-
-# 7. Checklist trước khi đăng
-
-- [ ] Hook rõ trong 3 giây đầu.
-- [ ] Một video chỉ có một ý chính.
-- [ ] Có tình huống đời sống/cảm xúc nếu phù hợp.
-- [ ] Có Doctor POV.
-- [ ] CTA an toàn.
-- [ ] Caption không quảng cáo lộ.
-- [ ] Phụ đề dễ đọc.
+- Không hứa “xóa sạch”.
+- Không dùng hình trẻ nếu chưa có đồng ý.
+- Không nói số buổi cố định cho mọi bé.

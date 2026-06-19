@@ -1,392 +1,166 @@
-# EMOTIONAL_CONTENT_FRAMEWORK_v1.1
+# EMOTIONAL_CONTENT_FRAMEWORK_v1.3_REVIEWED
 
-**Phiên bản:** 1.1  
-**Mục tiêu:** Giúp mọi nội dung của Bác sĩ Thu kết nối với cảm xúc bệnh nhân trước khi giải thích bệnh học.
+**Mục tiêu:** Giúp nội dung của Bác sĩ Thu kết nối cảm xúc trước khi giải thích chuyên môn.  
+**Cập nhật:** Bổ sung trục phụ huynh/trẻ em/hành trình điều trị dài hạn.
 
 ---
 
-# 1. Nguyên tắc cốt lõi
+# 1. Nguyên tắc lõi
 
 Người xem phải cảm thấy:
 
-> **"Bác sĩ hiểu mình"**
+> **Bác sĩ hiểu mình**
 
 trước khi cảm thấy:
 
-> **"Bác sĩ hiểu bệnh."**
+> **Bác sĩ hiểu bệnh.**
 
-Điều này đặc biệt quan trọng với các vấn đề da liễu/thẩm mỹ da vì người bệnh thường không chỉ lo về triệu chứng. Họ lo về:
+Với v1.3, thêm một lớp:
 
-- Ngoại hình.
-- Tự tin.
-- Công việc.
-- Giao tiếp.
-- Mối quan hệ.
-- Ánh nhìn của người khác.
-- Kỳ vọng sau nhiều lần điều trị.
+> **Phụ huynh phải cảm thấy bác sĩ hiểu nỗi lo cho con trước khi nghe bác sĩ nói về laser hay phác đồ.**
 
 ---
 
-# 2. Lỗi thường gặp khi bác sĩ làm nội dung
-
-## Lỗi 1 — Bắt đầu bằng định nghĩa
-
-Ví dụ:
-
-> Nám là tình trạng tăng sắc tố...
-
-Người bệnh thường chưa cần định nghĩa ngay. Họ đang tự hỏi:
-
-> Tại sao mặt mình lúc nào cũng trông mệt mỏi?
-
-## Lỗi 2 — Quá nhanh đi vào cơ chế
-
-Ví dụ:
-
-> PIE là post-inflammatory erythema...
-
-Người bệnh đang nghĩ:
-
-> Sao vết đỏ này bôi mãi không hết?
-
-## Lỗi 3 — Tư vấn đúng nhưng chưa chạm cảm xúc
-
-Nội dung đúng chuyên môn nhưng người xem không cảm thấy được thấu hiểu.
-
----
-
-# 3. Framework chuẩn v1.1
+# 2. Framework v1.3
 
 ```text
-Life Situation
+Life situation
 ↓
 Emotion
 ↓
 Doctor POV
 ↓
-Medical Explanation
+Medical explanation
 ↓
-Practical Advice
+Expectation setting
+↓
+Practical advice
 ↓
 CTA an toàn
 ```
 
----
-
-# 4. Giải thích từng bước
-
-## Bước 1 — Life Situation
-
-Mở đầu bằng tình huống đời sống thật.
-
-Ví dụ:
-
-- "Có nhiều chị rất ngại chụp ảnh cận mặt."
-- "Có bạn không dám bỏ khẩu trang dù mụn đã đỡ."
-- "Có người tránh ăn đồ cay/nóng vì sợ mặt đỏ bừng."
-- "Có phụ huynh rất lo khi thấy con có mảng trắng trên da."
-
-Mục tiêu: người xem thấy "đây là mình".
+Điểm mới so với v1.1 là **Expectation setting**: đặt kỳ vọng thực tế trước khi CTA.
 
 ---
 
-## Bước 2 — Emotion
+# 3. Life Situation mẫu
 
-Gọi tên cảm xúc, nhưng không bi kịch hóa.
+## Nhóm phụ huynh/trẻ em
 
-Các cảm xúc thường gặp:
+- “Có phụ huynh đưa con đi khám chỉ vì sợ sau này con bị bạn bè trêu.”
+- “Có những bé còn rất nhỏ, nhưng vết bớt lại là nỗi lo rất lớn của bố mẹ.”
+- “Nhiều bố mẹ không biết nên chờ con lớn hay nên khám sớm.”
+- “Có phụ huynh sợ nhất không phải là bớt, mà là con lớn lên tự ti vì bớt.”
 
-- Tự ti.
-- Lo lắng.
-- Thất vọng.
-- Mất niềm tin.
-- Hoang mang.
-- Sợ điều trị sai.
-- Sợ tốn tiền mà không cải thiện.
-- Sợ người khác đánh giá.
+## Nhóm mụn/sẹo
 
-Ví dụ:
+- “Có bạn không dám bỏ khẩu trang dù mụn đã đỡ.”
+- “Có bạn thấy da bắt đầu lõm và rất sốt ruột muốn trị sẹo ngay.”
 
-> Điều đó làm họ rất mất tự tin, nhất là khi phải gặp khách hàng hoặc đi sự kiện.
+## Nhóm nám
 
----
-
-## Bước 3 — Doctor POV
-
-Đưa góc nhìn bác sĩ.
-
-Ví dụ:
-
-- "Tôi gặp tình huống này khá thường xuyên."
-- "Tôi hiểu vì sao nhiều người muốn xử lý thật nhanh."
-- "Nhưng ở góc nhìn bác sĩ, tôi thường không vội làm laser ngay."
-- "Điều tôi quan tâm đầu tiên không phải là máy gì, mà là nền da đang ở trạng thái nào."
+- “Có nhiều chị nói: em không ngại già, em chỉ ngại lúc nào cũng trông mệt mỏi.”
 
 ---
 
-## Bước 4 — Medical Explanation
+# 4. Emotion mẫu
 
-Lúc này mới giải thích bệnh học.
-
-Nguyên tắc:
-
-- Ngắn.
-- Dễ hiểu.
-- Không quá học thuật.
-- Nếu dùng thuật ngữ, giải thích ngay.
-
-Ví dụ:
-
-> Vết đỏ sau mụn nhiều khi không phải là thâm nâu do sắc tố, mà liên quan đến mạch máu và phản ứng viêm sau mụn.
+| Nhóm | Cảm xúc chính |
+|---|---|
+| Phụ huynh có con bị bớt | Lo cho con, sợ con đau, sợ chọn sai, sợ con tự ti |
+| Người bị bớt/bạch biến | Mặc cảm, ngại ánh nhìn, mất tự tin |
+| Người bị mụn/sẹo | Tự ti, nóng vội, sợ sẹo theo mình lâu dài |
+| Người bị nám | Thất vọng, sợ tái phát, sợ điều trị sai |
+| Người đỏ da | Xấu hổ, mệt mỏi, sợ treatment mạnh |
+| Sau thủ thuật | Hoang mang, không biết dấu hiệu nào bình thường |
 
 ---
 
-## Bước 5 — Practical Advice
+# 5. Doctor POV mẫu
 
-Đưa lời khuyên thực tế.
-
-Ví dụ:
-
-- Không nên tự peel mạnh.
-- Không nên trị sẹo khi mụn còn viêm.
-- Không nên laser khi da đang kích ứng.
-- Không nên dùng nhiều active cùng lúc.
-- Nên ghi lại routine hiện tại khi đi khám.
-- Nên thăm khám nếu tình trạng kéo dài.
+- “Ở góc nhìn bác sĩ, điều đầu tiên không phải là dùng máy gì, mà là xác định tổn thương thuộc nhóm nào.”
+- “Với trẻ nhỏ, bác sĩ phải cân nhắc cả chỉ định, cảm giác của bé và khả năng đồng hành của gia đình.”
+- “Tôi thường không hứa sạch hoàn toàn, vì đáp ứng điều trị thay đổi theo từng trường hợp.”
+- “Có những lúc bác sĩ cần nói chưa nên làm ngay.”
+- “Giải thích kỳ vọng đúng cũng là một phần điều trị.”
 
 ---
 
-## Bước 6 — CTA an toàn
+# 6. Expectation setting
 
-CTA ưu tiên:
+Dùng trước CTA để tránh kỳ vọng sai.
 
-> Nếu bạn gặp tình trạng tương tự, nên thăm khám với bác sĩ da liễu để được đánh giá đúng.
-
-Biến thể:
-
-- "Mỗi nền da có nguy cơ khác nhau, bác sĩ cần đánh giá trước khi chọn phương pháp."
-- "Đây là thông tin giáo dục, không thay thế thăm khám trực tiếp."
-- "Nếu tình trạng kéo dài hoặc từng điều trị nhiều lần, nên gặp bác sĩ da liễu để được tư vấn cá nhân hóa."
-
----
-
-# 5. Công thức hook cảm xúc
-
-## Nhóm hook "có người nói với tôi"
-
-1. "Có nhiều chị nói với tôi: em không ngại già, em chỉ ngại lúc nào cũng trông mệt mỏi."
-2. "Có bạn nói rằng mụn làm bạn ấy không dám nhìn thẳng vào người khác."
-3. "Có người bệnh đỏ da nói rằng họ sợ nhất là bị hỏi: sao mặt đỏ thế?"
-4. "Có phụ huynh nói rằng họ rất lo khi con có mảng trắng trên mặt."
-5. "Có bệnh nhân nói với tôi: em đã điều trị nhiều nơi rồi nên giờ rất sợ hứa hẹn."
-
-## Nhóm hook "điều đau nhất"
-
-1. "Điều đau nhất của mụn đôi khi không phải cái mụn."
-2. "Điều mệt nhất của nám đôi khi không phải đốm nâu."
-3. "Điều khó chịu nhất của đỏ da đôi khi không phải cảm giác nóng rát."
-4. "Điều người bị bạch biến sợ nhất đôi khi không phải bệnh."
-5. "Điều bệnh nhân sẹo rỗ sợ nhất không phải đau, mà là kỳ vọng sai."
-
-## Nhóm hook "đừng vội"
-
-1. "Nếu bạn đang bị nám, đừng vội hỏi dùng máy gì."
-2. "Nếu mụn còn viêm, đừng vội trị sẹo."
-3. "Nếu da đang đỏ rát, đừng vội thêm active."
-4. "Nếu từng laser bị thâm hơn, đừng vội làm tiếp."
-5. "Nếu bạn sợ laser, điều đầu tiên cần làm không phải là tránh mọi công nghệ."
-
-## Nhóm hook "bác sĩ thường gặp"
-
-1. "Một tình huống tôi gặp rất nhiều ở phòng khám là..."
-2. "Một câu hỏi tôi nghe gần như mỗi tuần là..."
-3. "Một hiểu lầm khiến nhiều bệnh nhân thất vọng là..."
-4. "Một điều tôi thường phải giải thích rất kỹ trước khi điều trị là..."
-5. "Một lý do khiến tôi khuyên bệnh nhân chờ thêm là..."
+Mẫu câu:
+- “Điều trị bớt thường là hành trình, không phải một lần là xong.”
+- “Mức cải thiện tùy loại tổn thương, tuổi, nền da và đáp ứng từng người.”
+- “Không nên lấy ảnh trước-sau của người khác làm cam kết cho mình.”
+- “Với trẻ em, cần đánh giá trực tiếp trước khi quyết định thời điểm can thiệp.”
+- “Có ca cần điều trị, có ca cần theo dõi thêm.”
 
 ---
 
-# 6. Mapping theo vấn đề da
+# 7. CTA an toàn
 
-## Nám/sắc tố
-
-### Life situation
-- Ngại chụp ảnh.
-- Thấy mặt lúc nào cũng mệt.
-- Sợ già hơn tuổi.
-- Từng điều trị nhiều lần nhưng tái phát.
-- Sợ laser làm nám nặng hơn.
-
-### Emotion
-- Lo lắng.
-- Thất vọng.
-- Mất niềm tin.
-- Tự ti.
-
-### Doctor POV
-> Tôi hiểu vì sao nhiều chị muốn nám mờ thật nhanh. Nhưng nám là nhóm vấn đề cần phân loại và quản lý lâu dài.
-
-### Medical explanation
-> Nám không chỉ là đốm nâu. Nó có thể liên quan đến nền da, ánh nắng, nội tiết, viêm và chăm sóc duy trì.
-
-### Advice
-> Không nên bắt đầu bằng câu hỏi dùng máy gì. Nên bắt đầu bằng phân loại sắc tố và đánh giá nền da.
+- “Nếu con có bớt/mảng trắng trên da, phụ huynh nên đưa bé thăm khám da liễu để được phân biệt tổn thương.”
+- “Nếu bạn gặp tình trạng tương tự, nên thăm khám với bác sĩ da liễu để được đánh giá đúng.”
+- “Nội dung này chỉ mang tính giáo dục, không thay thế thăm khám trực tiếp.”
 
 ---
 
-## Mụn
+# 8. Hook cảm xúc v1.3
 
-### Life situation
-- Không dám bỏ khẩu trang.
-- Sợ người khác nhìn mặt.
-- Đổi nhiều routine nhưng vẫn lên mụn.
-- Tự trách bản thân vì mụn tái phát.
+## Nhóm phụ huynh
 
-### Emotion
-- Tự ti.
-- Bối rối.
-- Mất kiên nhẫn.
-- Hoang mang.
+1. “Điều nhiều bố mẹ sợ nhất không phải là vết bớt, mà là con lớn lên tự ti vì vết bớt.”
+2. “Khi con có bớt trên mặt, câu hỏi đầu tiên không nên là dùng máy gì.”
+3. “Bớt ở trẻ nhỏ: chờ lớn hay nên khám sớm?”
+4. “Có những hành trình điều trị không chỉ làm mờ một vết bớt.”
+5. “Phụ huynh cần hiểu điều này trước khi cho con điều trị laser.”
 
-### Doctor POV
-> Tôi thường gặp nhiều bạn đã thử rất nhiều sản phẩm trước khi đi khám. Điều đó dễ hiểu, nhưng đôi khi làm da quá tải hơn.
+## Nhóm doctor-led
 
-### Medical explanation
-> Mụn không chỉ do bẩn hay do ăn uống. Nó có nhiều yếu tố như tuyến bã, viêm, vi khuẩn, nội tiết, routine và hàng rào da.
-
-### Advice
-> Khi mụn viêm kéo dài, nên đánh giá đúng mức độ mụn thay vì đổi thêm nhiều sản phẩm.
+1. “Có những lúc bác sĩ cần nói: chưa nên làm ngay.”
+2. “Tôi không bắt đầu bằng tên máy.”
+3. “Điều tôi luôn hỏi trước điều trị là: người bệnh đang kỳ vọng điều gì?”
+4. “Không phải kết quả đẹp nào cũng nên biến thành lời hứa.”
 
 ---
 
-## Sẹo rỗ
-
-### Life situation
-- Da hết mụn nhưng vẫn không tự tin.
-- Ánh sáng nghiêng làm sẹo rõ hơn.
-- Sợ bị hứa quá mức.
-- Sợ đau, downtime, thâm sau thủ thuật.
-
-### Emotion
-- Tự ti.
-- Lo lắng.
-- Nghi ngờ.
-- Sợ kỳ vọng sai.
-
-### Doctor POV
-> Tôi thường không bắt đầu bằng tên máy. Tôi bắt đầu bằng phân loại sẹo.
-
-### Medical explanation
-> Sẹo rỗ có nhiều loại như ice-pick, boxcar, rolling. Mỗi loại có hướng xử lý khác nhau.
-
-### Advice
-> Không nên kỳ vọng sẹo đầy hoàn toàn sau một buổi. Cần đánh giá loại sẹo, nền da và mụn còn hoạt động hay không.
-
----
-
-## Đỏ da/PIE/rosacea
-
-### Life situation
-- Né chụp ảnh.
-- Bị hỏi "sao mặt đỏ thế?"
-- Bôi phục hồi mãi không hết.
-- Sợ treatment mạnh.
-
-### Emotion
-- Xấu hổ.
-- Lo lắng.
-- Mệt mỏi.
-- Sợ sai.
-
-### Doctor POV
-> Đỏ da không phải lúc nào cũng là da yếu. Điều quan trọng là tìm nguyên nhân đỏ.
-
-### Medical explanation
-> Đỏ sau mụn có thể liên quan đến mạch máu/viêm, khác với thâm nâu do sắc tố.
-
-### Advice
-> Nếu đỏ kéo dài, nóng rát hoặc dễ bùng đỏ, nên thăm khám để phân biệt nguyên nhân.
-
----
-
-## Bạch biến/bớt
-
-### Life situation
-- Bị nhìn nhiều.
-- Phụ huynh lo con bị trêu.
-- Người bệnh sợ bệnh lan.
-- Nghe nhiều thông tin trái chiều.
-
-### Emotion
-- Mặc cảm.
-- Lo lắng.
-- Cô đơn.
-- Sợ bị kỳ thị.
-
-### Doctor POV
-> Với các bệnh lý như bạch biến hoặc bớt, điều quan trọng không chỉ là điều trị, mà còn là giúp người bệnh hiểu đúng và bớt sợ.
-
-### Medical explanation
-> Mảng trắng hoặc bớt trên da có nhiều nguyên nhân khác nhau, cần thăm khám để phân biệt.
-
-### Advice
-> Không nên tự bôi thuốc dân gian hoặc tự kết luận. Nên thăm khám da liễu để đánh giá đúng.
-
----
-
-# 7. Template viết video theo Emotion-first
+# 9. Template viết nội dung
 
 ```text
 Chủ đề:
 Người xem:
 Tình huống đời sống:
 Cảm xúc chính:
-Hook:
+Hiểu lầm:
 Doctor POV:
 Giải thích y khoa:
+Kỳ vọng thực tế:
 Lời khuyên:
 CTA:
 Text overlay:
 Caption:
+Safety:
 ```
 
 ---
 
-# 8. Ví dụ video ngắn
+# 10. Ví dụ angle
 
-## Chủ đề: Mụn còn viêm có nên trị sẹo chưa?
+## Chủ đề: Bớt rượu vang ở trẻ có nên khám sớm?
 
-### Full script
-Có nhiều bạn rất sốt ruột khi nhìn thấy sẹo rỗ sau mụn.
+Tình huống:
+> Nhiều bố mẹ thấy con có mảng đỏ trên mặt nhưng không biết nên chờ con lớn hay đi khám sớm.
 
-Các bạn thường hỏi: "Bác sĩ ơi, em trị sẹo luôn được không?"
+Cảm xúc:
+> Nỗi lo lớn nhất không chỉ là mảng đỏ, mà là con lớn lên có thể bị chú ý, bị hỏi hoặc tự ti.
 
-Tôi hiểu cảm giác đó. Khi mụn kéo dài, ai cũng muốn xử lý thật nhanh để da phẳng hơn.
+Doctor POV:
+> Ở góc nhìn bác sĩ, cần xác định đó có đúng là bớt rượu vang không, vị trí ở đâu, mức độ thế nào và thời điểm nào phù hợp để theo dõi hoặc can thiệp.
 
-Nhưng nếu mụn viêm vẫn còn hoạt động, việc trị sẹo quá sớm có thể khiến bạn thất vọng.
+Kỳ vọng:
+> Không nên hứa một lần là hết. Đây thường là quá trình cần đánh giá và đồng hành.
 
-Vì trong lúc mình đang cố cải thiện sẹo cũ, mụn viêm mới vẫn có thể tạo thêm sẹo mới.
-
-Ở góc nhìn bác sĩ, thứ tự thường là: kiểm soát viêm trước, ổn định nền da, rồi mới đánh giá loại sẹo và chọn phương pháp phù hợp.
-
-Nếu bạn đang vừa có mụn viêm vừa có sẹo rỗ, nên thăm khám để bác sĩ đánh giá đúng thứ tự xử lý.
-
-### Teleprompter
-Mụn còn viêm, đừng vội trị sẹo.
-
-Tôi hiểu vì sao nhiều bạn rất sốt ruột khi thấy sẹo rỗ.
-
-Nhưng nếu mụn viêm vẫn hoạt động, mình đang vừa trị sẹo cũ, vừa có nguy cơ tạo sẹo mới.
-
-Vì vậy, bác sĩ thường ưu tiên kiểm soát mụn trước, ổn định nền da, rồi mới đánh giá loại sẹo và chọn phương pháp phù hợp.
-
-Nếu bạn vừa có mụn viêm vừa có sẹo, nên thăm khám để được đánh giá đúng thứ tự xử lý.
-
-### Cue card
-- Hook: Mụn còn viêm, đừng vội trị sẹo
-- Người bệnh sốt ruột
-- Bác sĩ hiểu cảm giác đó
-- Mụn viêm còn tạo sẹo mới
-- Kiểm soát mụn trước
-- Sau đó đánh giá sẹo
-- CTA thăm khám
+CTA:
+> Phụ huynh nên đưa bé thăm khám để được phân biệt và tư vấn cá nhân hóa.

@@ -1,7 +1,7 @@
-# BRAND_VOICE_GUIDE_v1.1
+# BRAND_VOICE_GUIDE_v1.3_REVIEWED
 
-**Phiên bản:** 1.1  
-**Mục tiêu:** Chuẩn hóa giọng văn, cách nói và ngôn ngữ của Bác sĩ Thu trên Facebook, Fanpage, TikTok/Reels, YouTube Shorts và YouTube long-form.
+**Mục tiêu:** Chuẩn hóa giọng văn sau audit Facebook.  
+**Thay đổi:** Giảm ngôn ngữ sale/dịch vụ, tăng giọng bác sĩ ấm áp, nhân văn, rõ ràng và có trách nhiệm.
 
 ---
 
@@ -9,128 +9,120 @@
 
 Bác sĩ Thu nên có giọng:
 
-- Chuyên môn nhưng dễ hiểu.
+- Rõ ràng.
+- Điềm tĩnh.
 - Ấm áp.
-- Gần gũi nhưng không suồng sã.
-- Có quan điểm
-- An toàn nhưng không khô cứng.
+- Thấu hiểu.
+- Có chiến lược.
+- Không phán xét.
+- Không quảng cáo lộ.
+- Không hứa quá.
 
 ---
 
-# 2. 5 từ khóa giọng thương hiệu
+# 2. 5 từ khóa thương hiệu
 
 1. **Rõ ràng**
 2. **Điềm tĩnh**
 3. **Thấu hiểu**
 4. **Có chiến lược**
-5. **An toàn**
+5. **Nhân văn**
 
 ---
 
-# 3. Nguyên tắc nói trước camera
+# 3. Nên nói
 
-## Nên
+- “Tôi hiểu vì sao phụ huynh lo.”
+- “Điều trị thường là một hành trình.”
+- “Mỗi trường hợp cần đánh giá riêng.”
+- “Không nên tự kết luận qua ảnh.”
+- “Bác sĩ cần phân loại tổn thương trước.”
+- “Kỳ vọng thực tế rất quan trọng.”
+- “Không phải ca nào cũng cần làm ngay.”
+- “Nếu tình trạng kéo dài, nên thăm khám trực tiếp.”
 
-- Nói như đang tư vấn cho một người bệnh.
-- Mỗi video chỉ có một ý chính.
-- Dùng câu ngắn.
-- Có ví dụ đời sống.
-- Giải thích thuật ngữ ngay sau khi dùng.
+---
+
+# 4. Không nên nói hoặc cần hạn chế
+
+| Câu/kiểu nói | Vì sao nên tránh | Cách sửa |
+|---|---|---|
+| “Bay màu” | Quá sale, dễ hứa quá | “Mờ dần tùy đáp ứng từng trường hợp” |
+| “Sạch hoàn toàn” | Dễ thành cam kết | “Cải thiện ở mức độ khác nhau” |
+| “Đẹp kịp Tết” | Kéo định vị sang thẩm mỹ sale | “Cần đánh giá thời điểm phù hợp” |
+| “Alo ngay” | Không hợp giọng bác sĩ | “Nên thăm khám nếu bạn cần đánh giá trực tiếp” |
+| “Phù phép” | Làm nhẹ tính y khoa | “Công nghệ chỉ hiệu quả khi đúng chỉ định” |
+| “Tốn ít chi phí hơn” nếu không chắc | Dễ thành cam kết kinh tế | “Khám sớm giúp bác sĩ có thêm lựa chọn theo dõi/can thiệp phù hợp” |
+
+---
+
+# 5. Cách mở đầu nên dùng
+
+## Với phụ huynh/trẻ em
+
+- “Có phụ huynh đưa con đi khám vì sợ sau này con tự ti…”
+- “Khi con có bớt trên mặt, bố mẹ thường lo rất nhiều điều…”
+- “Tôi hiểu vì sao bố mẹ muốn con được điều trị sớm, nhưng…”
+- “Điều đầu tiên bác sĩ cần làm là xác định đúng loại tổn thương.”
+
+## Với bệnh nhân trưởng thành
+
+- “Nhiều người không chỉ lo vết trên da, mà lo ánh nhìn của người khác.”
+- “Tôi gặp tình huống này khá thường xuyên ở phòng khám…”
+- “Ở góc nhìn bác sĩ, điều quan trọng không phải là làm thật mạnh.”
+
+---
+
+# 6. Mẫu giọng nên dùng
 
 ## Không nên
 
-- Đọc như MC.
-- Giảng như bài lecture quá dài.
-- Dùng quá nhiều thuật ngữ.
-- Nói quá nhanh.
-- Hứa hẹn quá mức.
-- Chê bai nơi khác.
-
----
-
-# 4. Cách mở đầu nên dùng
-
-## Mở đầu bằng đời sống
-
-- "Có nhiều chị nói với tôi..."
-- "Một điều tôi gặp khá nhiều ở phòng khám là..."
-- "Nhiều bạn rất sốt ruột khi..."
-- "Tôi hiểu vì sao bạn lo..."
-- "Nếu bạn từng..."
-
-## Mở đầu bằng hiểu lầm
-
-- "Không phải cứ..."
-- "Rất nhiều người nghĩ rằng..."
-- "Một hiểu lầm phổ biến là..."
-- "Điều này nghe có vẻ hợp lý, nhưng..."
-
-## Mở đầu bằng Doctor POV
-
-- "Ở góc nhìn bác sĩ..."
-- "Tôi thường chưa vội..."
-- "Có những trường hợp tôi khuyên..."
-- "Điều tôi quan tâm đầu tiên là..."
-
-
----
-
-# 5. Cấu trúc câu nên dùng
-
-## Câu đồng cảm
-
-- "Tôi hiểu vì sao bạn lo."
-- "Điều này dễ khiến người bệnh mất tự tin."
-- "Nhiều người gặp tình trạng tương tự."
-- "Bạn không phải người duy nhất gặp vấn đề này."
-
-## Câu tạo authority
-
-- "Ở góc nhìn bác sĩ, điều quan trọng là..."
-- "Trước khi chọn công nghệ, bác sĩ cần..."
-- "Tôi thường đánh giá theo thứ tự..."
-- "Không phải tên máy quyết định tất cả."
-
----
-
-# 6. Mẫu giọng cho video ngắn
-
-## Không nên
-
-> Nám là một bệnh lý tăng sắc tố mạn tính, liên quan đến hắc tố bào và nhiều yếu tố bệnh sinh phức tạp.
+> Bớt này xử lý nhanh, laser bay màu, phụ huynh alo ngay để con đẹp kịp đi học.
 
 ## Nên
 
-> Nhiều chị nghĩ nám chỉ là vài đốm nâu trên da. Nhưng ở góc nhìn bác sĩ, nám phức tạp hơn vậy. Nó có thể liên quan đến nắng, nội tiết, nền da và cách mình chăm sóc sau điều trị.
+> Khi trẻ có bớt trên mặt, điều bố mẹ lo nhất thường không chỉ là màu da, mà là sau này con có tự ti hay bị bạn bè trêu không. Ở góc nhìn bác sĩ, bước đầu tiên là xác định đúng loại bớt, mức độ và thời điểm phù hợp để theo dõi hoặc điều trị. Không nên hứa một lần là hết, vì đáp ứng của mỗi bé khác nhau.
 
 ---
 
-# 7. Mẫu giọng cho Facebook long-form
+# 7. Giọng cho Facebook long-form
 
-Mở đầu nên có tình huống:
+Nên có:
+- Câu chuyện đời sống.
+- Một đoạn cảm xúc.
+- Góc nhìn bác sĩ.
+- Giải thích ngắn, dễ hiểu.
+- Kỳ vọng thực tế.
+- CTA an toàn.
 
-> Có một câu tôi nghe khá nhiều khi khám nám: "Bác sĩ ơi, em chỉ muốn mặt mình đỡ mệt mỏi hơn thôi."
-
-Sau đó mới giải thích:
-
-> Thực ra, nám không chỉ ảnh hưởng đến màu da. Với nhiều phụ nữ, nó ảnh hưởng đến cảm giác tự tin khi soi gương, khi đi làm, khi gặp khách hàng hoặc khi chụp ảnh.
-
-Rồi đưa chuyên môn:
-
-> Vì vậy, điều trị nám không nên bắt đầu bằng câu hỏi "dùng máy gì", mà nên bắt đầu bằng việc phân loại sắc tố và đánh giá nền da.
+Không nên:
+- Viết như bài quảng cáo.
+- Khoe kết quả quá đà.
+- Đưa Pema hoặc máy lên trước câu chuyện.
 
 ---
 
-# 8. Khuyến cáo chuẩn (Disclaimer)
+# 8. Giọng cho video ngắn
+
+- Câu ngắn.
+- Một ý chính.
+- Nói như tư vấn cho một người.
+- Có một câu đồng cảm.
+- Có một câu bác sĩ cân nhắc.
+- Có một câu lời khuyên rõ.
+
+---
+
+# 9. Disclaimer mẫu
 
 ## Bài Facebook
 
-> Bài viết này chỉ mang tính giáo dục. Mỗi nền da có nguy cơ và hướng xử lý khác nhau, vì vậy nếu tình trạng kéo dài hoặc từng điều trị nhiều lần, bạn nên thăm khám trực tiếp với bác sĩ da liễu.
+> Bài viết mang tính giáo dục, không thay thế thăm khám trực tiếp. Mỗi tình trạng da có nguyên nhân, mức độ và hướng xử lý khác nhau, nên bạn cần được bác sĩ đánh giá trước khi chọn phương pháp.
 
-## Story
+## Nội dung trẻ em/case
 
-> Bạn có thể lưu lại để tránh xử lý nóng vội.
+> Nội dung được chia sẻ với mục đích giáo dục và cần tôn trọng quyền riêng tư của trẻ. Phụ huynh nên đưa bé thăm khám trực tiếp để được tư vấn phù hợp.
 
-## YouTube
+## Video ngắn
 
-> Nội dung này không thay thế cho thăm khám trực tiếp. Nếu bạn đang gặp tình trạng tương tự, hãy gặp bác sĩ da liễu để được đánh giá cá nhân hóa.
+> Nếu bạn gặp tình trạng tương tự, nên thăm khám với bác sĩ da liễu để được đánh giá đúng.
