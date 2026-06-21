@@ -65,7 +65,101 @@ Format ghi ý tưởng:
 
 ---
 
-# 4. Content Queue hằng tháng
+# 4. Weekly Content Input từ Bác sĩ Thu
+
+Mục tiêu:
+
+> Không yêu cầu Bác sĩ Thu tự nghĩ ý tưởng content.  
+> Bác sĩ Thu chỉ cần cung cấp **nguyên liệu thật** từ hoạt động khám chữa bệnh hằng tuần.
+
+Team/AI sẽ chuyển nguyên liệu đó thành:
+- Video ngắn.
+- Facebook long-form.
+- Doctor POV.
+- FAQ.
+- Story/Q&A.
+- YouTube Shorts hoặc long-form nếu chủ đề thắng.
+
+## Tin nhắn gửi Bác sĩ Thu mỗi tuần
+
+```text
+Chị Thu ơi,
+
+Để lên nội dung tuần sau, chị không cần nghĩ ý tưởng video đâu.
+
+Chị chỉ cần gửi em:
+
+1. 3–5 ca bệnh hoặc câu chuyện chị nhớ nhất tuần này
+- Ca nào làm chị vui.
+- Ca nào làm chị trăn trở.
+- Ca nào có nhiều cảm xúc.
+- Ca nào phụ huynh/bệnh nhân hỏi nhiều.
+
+2. 5–10 câu hỏi bệnh nhân hoặc phụ huynh hỏi nhiều nhất.
+
+3. 3–5 hiểu lầm chị gặp nhiều nhất.
+
+4. Điều chị muốn người bệnh/phụ huynh hiểu hơn.
+
+5. Chủ đề tuần tới chị muốn ưu tiên nếu có.
+Ví dụ: bớt Ota, bớt rượu vang, bạch biến, mụn, nám, đỏ da, laser an toàn, chăm sóc sau thủ thuật.
+
+6. Ảnh/video/case nào được phép dùng không?
+
+Em sẽ tự chọn chủ đề, viết kịch bản và lên lịch đăng cho tuần tới.
+```
+
+## Form ngắn để Bác sĩ Thu trả lời
+
+```text
+TUẦN NÀY
+
+1. Ca bệnh/câu chuyện tôi nhớ nhất:
+...
+
+2. Câu hỏi bệnh nhân/phụ huynh hỏi nhiều nhất:
+...
+
+3. Hiểu lầm tôi gặp nhiều nhất:
+...
+
+4. Điều tôi muốn người bệnh hiểu hơn:
+...
+
+5. Chủ đề muốn ưu tiên tuần sau:
+...
+
+6. Ảnh/video/case có thể sử dụng:
+...
+```
+
+## Câu hỏi quan trọng nhất mỗi tuần
+
+Nếu chỉ hỏi một câu, hãy hỏi:
+
+> **Tuần này có ca trẻ em, phụ huynh hoặc hành trình điều trị nào khiến chị nhớ nhất không?**
+
+Lý do:
+- Đây là nguồn nguyên liệu mạnh nhất cho flagship **Hành trình trả lại tuổi thơ**.
+- Một câu chuyện thật có thể tạo ra nhiều định dạng.
+- Giúp nội dung không bị rơi vào kiểu “nghĩ ý tưởng cho đủ lịch”.
+
+## Nguyên tắc vận hành
+
+Không hỏi:
+
+> Tuần sau làm video gì?
+
+Hỏi:
+
+> Tuần này có câu chuyện, câu hỏi hoặc ca bệnh nào khiến bác sĩ nhớ nhất không?
+
+Bác sĩ Thu cung cấp nguyên liệu.  
+Team/AI chịu trách nhiệm biến nguyên liệu thành hệ thống nội dung.
+
+---
+
+# 5. Content Queue hằng tháng
 
 Mỗi tháng tối thiểu:
 
@@ -88,7 +182,7 @@ Tỷ lệ chủ đề:
 
 ---
 
-# 5. Lịch mẫu 1 tuần
+# 6. Lịch mẫu 1 tuần
 
 | Ngày | Nội dung |
 |---|---|
@@ -102,7 +196,7 @@ Tỷ lệ chủ đề:
 
 ---
 
-# 6. Quy trình từng nội dung
+# 7. Quy trình từng nội dung
 
 1. Chọn ý tưởng.
 2. Chấm điểm theo v1.3.
@@ -116,7 +210,7 @@ Tỷ lệ chủ đề:
 
 ---
 
-# 7. Ma trận tái sử dụng
+# 8. Ma trận tái sử dụng
 
 | Nguồn | Chuyển thành |
 |---|---|
@@ -125,10 +219,11 @@ Tỷ lệ chủ đề:
 | Comment phụ huynh | Video FAQ mới |
 | Before/after có consent | Bài giáo dục kỳ vọng thực tế |
 | Hành trình nhiều tháng | Series nhiều tập |
+| Weekly input từ Bác sĩ Thu | 3–5 ý tưởng tuần + 1 bài dài + 2–3 video ngắn |
 
 ---
 
-# 8. Nhịp 90 ngày
+# 9. Nhịp 90 ngày
 
 ## Tháng 1 — Chỉnh nhận diện
 
@@ -154,9 +249,30 @@ Tỷ lệ chủ đề:
 
 ---
 
-# 9. KPI
+# 10. KPI
 
 Không đặt nặng booking.
+
+## 10.1. KPI đầu vào
+
+Mục tiêu là bảo đảm có đủ nguyên liệu thật để sản xuất nội dung.
+
+- Bác sĩ Thu gửi weekly input: 1 lần/tuần.
+- Tối thiểu 3 ca bệnh/câu chuyện đáng nhớ mỗi tuần.
+- Tối thiểu 5 câu hỏi thật từ bệnh nhân/phụ huynh mỗi tuần.
+- Tối thiểu 3 hiểu lầm thực tế mỗi tuần.
+- Tối thiểu 1 case/câu chuyện có thể phát triển thành Doctor POV hoặc case diary.
+
+## 10.2. KPI sản xuất
+
+- 3 nội dung đăng mới/tuần.
+- Ít nhất 1 video bác sĩ nói/tuần.
+- Ít nhất 1 Doctor POV/tuần.
+- Ít nhất 1 nội dung flagship **Hành trình trả lại tuổi thơ**/tuần.
+- Ít nhất 1 nội dung giáo dục chuyên môn/tuần.
+- Ít nhất 1 bài Facebook dài hoặc case diary/tuần nếu có đủ nguyên liệu.
+
+## 10.3. KPI chất lượng thương hiệu
 
 Ưu tiên:
 - Lượt share/lưu.
@@ -165,11 +281,25 @@ Không đặt nặng booking.
 - Người xem nhắc tên Bác sĩ Thu.
 - Tỷ lệ video bác sĩ nói có follow.
 - Series có người chờ nội dung tiếp theo.
+- Người xem kể câu chuyện cá nhân hoặc hỏi tiếp theo đúng chủ đề.
+
+## 10.4. KPI sau 90 ngày
+
+Chiến lược đi đúng hướng nếu người xem bắt đầu nhớ:
+
+> **Bác sĩ Thu là bác sĩ giải thích dễ hiểu, điều trị có chiến lược và nổi bật với các hành trình bớt Ota, bớt rượu vang, bệnh lý sắc tố/mạch máu ở trẻ em.**
+
+Dấu hiệu đo được:
+- Người xem nhắc đến “Bác sĩ Thu” thay vì chỉ nhắc Pema/máy/dịch vụ.
+- Có bình luận/inbox hỏi về bớt Ota, bớt rượu vang, bạch biến, mảng trắng, laser cho trẻ.
+- Series **Hành trình trả lại tuổi thơ** có người theo dõi tập tiếp theo.
+- Nội dung doctor-led có save/share tốt hơn nội dung procedure-led.
 
 ---
 
-# 10. Checklist tuần
+# 11. Checklist tuần
 
+- [ ] Bác sĩ Thu đã gửi weekly input.
 - [ ] Có ít nhất 3 nội dung đăng.
 - [ ] Có ít nhất 1 video bác sĩ nói.
 - [ ] Có ít nhất 1 Doctor POV.
@@ -177,3 +307,4 @@ Không đặt nặng booking.
 - [ ] Có ít nhất 1 nội dung giáo dục chuyên môn.
 - [ ] Có kiểm tra safety.
 - [ ] Có ghi lại bình luận/câu hỏi mới.
+- [ ] Có ghi lại nội dung nào đáng tái sử dụng sau 7 ngày.
