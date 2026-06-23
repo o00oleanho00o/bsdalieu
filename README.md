@@ -1,213 +1,113 @@
-# README
+# Bác Sĩ Thu - Truyền Thông v2.0 Tinh gọn
 
-**Dự án:** Bác Sĩ Thu - Truyền Thông  
-**Phiên bản hệ thống:** v1.3 reviewed  
-**Vai trò:** File định hướng đầu tiên. AI đọc file này trước khi chọn tài liệu khác.
+**Mục tiêu của bộ file này:** Tập trung vào 3 nền tảng chính:
 
----
-
-# 1. Mục đích của Project
-
-Project hỗ trợ xây dựng thương hiệu cá nhân **Bác sĩ Thu** trong da liễu, thẩm mỹ da, laser và chăm sóc sau thủ thuật.
-
-Mục tiêu không phải là bán dịch vụ ngắn hạn.  
-Mục tiêu là giúp người xem nhớ đến Bác sĩ Thu như:
-
-> **Bác sĩ da liễu có chuyên môn, giải thích dễ hiểu, điều trị có chiến lược, thấu hiểu người bệnh và truyền thông an toàn.**
+1. **Facebook cá nhân** — xây niềm tin, người thật, Doctor POV.
+2. **TikTok** — kéo người xem mới bằng video ngắn, dễ hiểu, một ý chính.
+3. **YouTube** — Shorts để gom tìm kiếm ngắn hạn, long-form để xây authority dài hạn.
 
 ---
 
-# 2. Cập nhật lớn của v1.3 reviewed
+## 1. Nguyên tắc định hướng
 
-Sau audit Facebook cá nhân/fanpage của Bác sĩ Thu, bộ tài liệu được review lại thay vì chỉ thêm nội dung mới.
-
-Kết luận chiến lược:
-
-> **Tài sản thương hiệu mạnh nhất hiện tại của Bác sĩ Thu là các hành trình điều trị bớt Ota, bớt rượu vang và các bệnh lý sắc tố/mạch máu ở trẻ em — nơi chuyên môn, sự đồng hành, cảm xúc phụ huynh và tính nhân văn xuất hiện rất rõ.**
-
-Từ v1.3, hệ thống nội dung ưu tiên:
-
-1. **Hành trình trả lại tuổi thơ**  
-   Bớt Ota, bớt rượu vang, trẻ em, phụ huynh, hành trình dài, điều trị đúng kỳ vọng.
-
-2. **Bác sĩ giải thích đúng — điều trị có chiến lược**  
-   Mụn, nám, đỏ da, laser, sẹo, chăm sóc sau thủ thuật.
-
-3. **Doctor POV**  
-   Bác sĩ cân nhắc gì, từ chối gì, ưu tiên gì, nói thật về giới hạn điều trị.
-
-4. **Nội dung đời sống bác sĩ vừa đủ**  
-   Để người xem thấy Bác sĩ Thu là người thật, không phải một kênh quảng cáo.
-
----
-
-# 3. Nguyên tắc trung tâm
-
-Thương hiệu trung tâm là:
-
-> **Bác sĩ Thu**
+Thương hiệu trung tâm là **Bác sĩ Thu**.
 
 Pema chỉ là:
 - Bối cảnh chuyên môn.
-- Nơi bác sĩ làm việc.
-- Điểm chạm thăm khám khi người bệnh cần đánh giá trực tiếp.
+- Nơi làm việc/thăm khám.
+- Điểm chạm khi người bệnh cần đánh giá trực tiếp.
 
-Không biến Pema, dịch vụ, máy móc hoặc ưu đãi thành nhân vật chính của nội dung.
+Không biến Pema, máy móc, dịch vụ, ưu đãi hoặc before/after thành nhân vật chính.
 
 Câu định vị lõi:
 
 > **Da khỏe trước, đẹp sau. Điều trị đúng trước, làm đẹp sau.**
 
-Lớp cảm xúc v1.3:
+Lớp cảm xúc:
 
 > **Hiểu người bệnh trước. Giải thích bệnh sau. Đồng hành đủ lâu để người bệnh bớt sợ.**
 
----
+Tài sản thương hiệu cần ưu tiên:
 
-# 4. Nguyên tắc không làm loãng thương hiệu
-
-Giảm hoặc chỉ dùng như nội dung phụ:
-
-- HIFU/trẻ hóa theo kiểu “đẹp kịp Tết”.
-- Giảm béo không phẫu thuật.
-- Xóa xăm nếu chỉ quay thủ thuật, không có góc nhìn bác sĩ.
-- Ảnh before/after đặt logo hoặc chữ quảng cáo quá lớn.
-- Video chỉ có máy móc, thao tác, phòng khám mà thiếu bác sĩ giải thích.
-
-Các chủ đề trên chỉ nên giữ nếu được viết lại theo hướng:
-
-> **Bác sĩ đánh giá gì — ai phù hợp — ai nên trì hoãn — kỳ vọng thực tế — chăm sóc sau thủ thuật.**
+> **Hành trình trả lại tuổi thơ** — các hành trình điều trị bớt Ota, bớt rượu vang, bạch biến/bớt/mảng trắng, bệnh lý sắc tố/mạch máu ở trẻ em.
 
 ---
 
-# 5. Danh sách file chính thức v1.3 reviewed
+## 2. Cấu trúc file mới
 
-## Hệ thống
-
-- `README.md`
-- `PROJECT_INSTRUCTIONS_PROMPT.md`
-- `00_SYSTEM_PROJECT_CUSTOM_INSTRUCTIONS.md`
-- `00_SYSTEM_FACEBOOK_AUDIT_V1_3.md`
-- `CHANGELOG.md`
-
-## Chiến lược
-
-- `01_STRATEGY_BRAND_POSITIONING.md`
-- `01_STRATEGY_CUSTOMER_PERSONA.md`
-- `01_STRATEGY_CHANNEL_STRATEGY.md`
-- `01_STRATEGY_YOUTUBE_STRATEGY.md`
-
-## Nội dung
-
-- `02_CONTENT_CONTENT_PILLARS.md`
-- `02_CONTENT_SERIES_IDEAS.md`
-- `02_CONTENT_EMOTIONAL_CONTENT_FRAMEWORK.md`
-- `02_CONTENT_DOCTOR_POV_LIBRARY.md`
-- `02_CONTENT_BRAND_VOICE_GUIDE.md`
-- `02_CONTENT_CONTENT_SCORING_SYSTEM.md`
-
-## Sản xuất
-
-- `03_PRODUCTION_VIDEO_PRODUCTION_WORKFLOW.md`
-- `03_PRODUCTION_CONTENT_PRODUCTION_SYSTEM.md`
-- `03_PRODUCTION_AI_WORKFLOW.md`
-
-## An toàn y khoa
-
-- `04_SAFETY_FAQ_CONTENT_MAP.md`
-- `04_SAFETY_PATIENT_MISUNDERSTANDINGS.md`
+```text
+bs_thu_md_tinh_gon_v2/
+├── README.md
+├── 00_AUDIT_GOP_FILE.md
+├── 01_BRAND_CORE.md
+├── 02_PLATFORM_STRATEGY.md
+├── 03_WEEKLY_CONTENT_OPERATING_SYSTEM.md
+├── 04_YOUTUBE_LONGFORM_PLAN.md
+└── 05_WEEKLY_INPUT_OUTPUT_TEMPLATE.md
+```
 
 ---
 
-# 6. Cách chọn file theo nhiệm vụ
+## 3. Cách dùng nhanh
 
-## Viết video ngắn
-
+### Khi cần lên chiến lược tổng thể
 Đọc:
-1. `README.md`
-2. `00_SYSTEM_PROJECT_CUSTOM_INSTRUCTIONS.md`
-3. `02_CONTENT_CONTENT_PILLARS.md`
-4. `02_CONTENT_EMOTIONAL_CONTENT_FRAMEWORK.md`
-5. `02_CONTENT_DOCTOR_POV_LIBRARY.md`
-6. `03_PRODUCTION_VIDEO_PRODUCTION_WORKFLOW.md`
-7. `04_SAFETY_FAQ_CONTENT_MAP.md` nếu là FAQ
+1. `01_BRAND_CORE.md`
+2. `02_PLATFORM_STRATEGY.md`
+3. `04_YOUTUBE_LONGFORM_PLAN.md`
 
-Đầu ra bắt buộc:
-- Insight bệnh nhân.
-- Full Script.
-- Prompt Teleprompter.
-- Cue Card.
-- Text overlay.
-- Caption.
-- Gợi ý cảnh quay.
-- CTA an toàn.
-
-## Viết bài Facebook
-
+### Khi Anh gửi input hàng tuần từ Bác sĩ Thu
 Đọc:
-1. `README.md`
-2. `01_STRATEGY_BRAND_POSITIONING.md`
-3. `01_STRATEGY_CUSTOMER_PERSONA.md`
-4. `02_CONTENT_EMOTIONAL_CONTENT_FRAMEWORK.md`
-5. `02_CONTENT_BRAND_VOICE_GUIDE.md`
-6. `04_SAFETY_FAQ_CONTENT_MAP.md` nếu cần
+1. `03_WEEKLY_CONTENT_OPERATING_SYSTEM.md`
+2. `05_WEEKLY_INPUT_OUTPUT_TEMPLATE.md`
 
-Đầu ra:
-- Tình huống đời sống.
-- Cảm xúc/nỗi lo.
-- Góc nhìn bác sĩ.
-- Giải thích bản chất.
-- Lời khuyên thực tế.
-- CTA an toàn.
+Sau đó xuất cho Anh:
+- Lịch đăng Facebook cá nhân, TikTok, YouTube Shorts trong tuần.
+- Chủ đề nào giữ lại làm YouTube long-form.
+- Script video ngắn 3 tầng.
+- Bài Facebook/case diary nếu có case thật.
+- Checklist quay batch.
+- KPI cần theo dõi sau 7 ngày.
 
-## Lên lịch nội dung
-
+### Khi viết content cụ thể
 Đọc:
-1. `README.md`
-2. `01_STRATEGY_BRAND_POSITIONING.md`
-3. `01_STRATEGY_CUSTOMER_PERSONA.md`
-4. `02_CONTENT_CONTENT_PILLARS.md`
-5. `02_CONTENT_SERIES_IDEAS.md`
-6. `03_PRODUCTION_CONTENT_PRODUCTION_SYSTEM.md`
-
-## Chấm ý tưởng
-
-Đọc:
-1. `README.md`
-2. `02_CONTENT_CONTENT_SCORING_SYSTEM.md`
-3. `01_STRATEGY_BRAND_POSITIONING.md`
-4. `02_CONTENT_BRAND_VOICE_GUIDE.md`
-
-## Soát nội dung trước đăng
-
-Đọc:
-1. `README.md`
-2. `00_SYSTEM_PROJECT_CUSTOM_INSTRUCTIONS.md`
-3. `02_CONTENT_BRAND_VOICE_GUIDE.md`
-4. `04_SAFETY_PATIENT_MISUNDERSTANDINGS.md`
-5. `04_SAFETY_FAQ_CONTENT_MAP.md`
+1. `01_BRAND_CORE.md`
+2. `05_WEEKLY_INPUT_OUTPUT_TEMPLATE.md`
 
 ---
 
-# 7. Quy tắc ưu tiên khi có xung đột
+## 4. Quy tắc vận hành hàng tuần
 
-1. `README.md`
-2. `00_SYSTEM_PROJECT_CUSTOM_INSTRUCTIONS.md`
-3. Các file v1.3 reviewed.
-4. File v1.1 chỉ dùng tham khảo.
-5. Không dùng file zip cũ làm nguồn nội dung nếu đã có file `.md` mới.
+Mỗi tuần, Bác sĩ Thu chỉ cần gửi input thô theo 4 nhóm:
+
+1. **Case nhớ nhất** — 1 đến 3 case, đã ẩn danh.
+2. **Câu hỏi thật** — câu bệnh nhân/phụ huynh hỏi trong tuần.
+3. **Hiểu lầm gặp nhiều** — ví dụ: “laser một lần là hết”, “mụn còn viêm vẫn trị sẹo”.
+4. **Tư liệu có thể dùng** — ảnh, video, ghi chú khám.
+
+AI sẽ chuyển input này thành:
+
+```text
+Input thô
+↓
+Chấm điểm ưu tiên
+↓
+Chọn 3–5 chủ đề tuần
+↓
+Phân bổ theo nền tảng
+↓
+Viết script/bài/caption
+↓
+Lập kế hoạch quay
+↓
+Lịch đăng
+↓
+KPI theo dõi sau 7 ngày
+```
 
 ---
 
-# 8. Nguyên tắc an toàn
+## 5. Nguyên tắc không đổi
 
-Nên dùng:
-- Có thể cải thiện tùy từng trường hợp.
-- Cần đánh giá nền da/tổn thương.
-- Cần phân loại trước khi chọn phương pháp.
-- Cần kỳ vọng thực tế.
-- Nên thăm khám trực tiếp khi tình trạng phức tạp.
-
-CTA ưu tiên:
-
-> Nếu bạn gặp tình trạng tương tự, nên thăm khám với bác sĩ da liễu để được đánh giá đúng.
+- Mỗi video ngắn chỉ nên có **một ý chính**.
+- YouTube long-form chỉ làm từ chủ đề có tín hiệu hoặc có giá trị authority lâu dài.
