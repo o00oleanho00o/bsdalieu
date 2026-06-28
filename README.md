@@ -1,49 +1,53 @@
-# Bác Sĩ Thu - Truyền Thông v2.0 Tinh gọn
+# Bác Sĩ Thu - Truyền Thông v3.0
 
-**Mục tiêu của bộ file này:** Tập trung vào 3 nền tảng chính:
+Bộ file này thay thế hướng cũ “Da khỏe trước, đẹp sau” bằng định vị mới sắc hơn, đúng hơn với phỏng vấn chuyên môn và mục tiêu kinh doanh:
 
-1. **Facebook cá nhân** — xây niềm tin, người thật, Doctor POV.
-2. **TikTok** — kéo người xem mới bằng video ngắn, dễ hiểu, một ý chính.
-3. **YouTube** — Shorts để gom tìm kiếm ngắn hạn, long-form để xây authority dài hạn.
+> **Bác sĩ Thu — Đẹp từ chẩn đoán đúng.**
 
----
+Câu triển khai:
 
-## 1. Nguyên tắc định hướng
+> **Đẹp có chiến lược — từ điều trị da liễu đến thẩm mỹ da.**
 
-Thương hiệu trung tâm là **Bác sĩ Thu**.
+Signature line cho nhóm thẩm mỹ/trẻ hóa:
 
-Pema chỉ là:
-- Bối cảnh chuyên môn.
-- Nơi làm việc/thăm khám.
-- Điểm chạm khi người bệnh cần đánh giá trực tiếp.
+> **Thẩm mỹ có gu. Y khoa có nền tảng.**
 
-Không biến Pema, máy móc, dịch vụ, ưu đãi hoặc before/after thành nhân vật chính.
+Tinh thần vận hành:
 
-Câu định vị lõi:
-
-> **Da khỏe trước, đẹp sau. Điều trị đúng trước, làm đẹp sau.**
-
-Lớp cảm xúc:
-
-> **Hiểu người bệnh trước. Giải thích bệnh sau. Đồng hành đủ lâu để người bệnh bớt sợ.**
-
-Tài sản thương hiệu cần ưu tiên:
-
-> **Hành trình trả lại tuổi thơ** — các hành trình điều trị bớt Ota, bớt rượu vang, bạch biến/bớt/mảng trắng, bệnh lý sắc tố/mạch máu ở trẻ em.
+- Không làm thương hiệu quá dè dặt.
+- Không biến Bác sĩ Thu thành “bác sĩ chỉ chữa bệnh da”.
+- Không biến Bác sĩ Thu thành một kênh bán dịch vụ thẩm mỹ.
+- Chiếm vị trí chuyên gia: biết chẩn đoán, biết chọn chiến lược, biết khi nào làm, làm gì trước, làm gì sau.
+- Truyền thông phải tạo được ham muốn đúng: đẹp hơn, tự tin hơn, nhưng dựa trên đánh giá y khoa.
 
 ---
 
-## 2. Cấu trúc file mới
+## 1. Brand idea mới
+
+Người xem cần nhớ:
+
+> **Muốn đẹp bền và đẹp đúng, phải bắt đầu từ chẩn đoán đúng.**
+
+Bác sĩ Thu không chỉ “làm đẹp an toàn”. Định vị mới phải mạnh hơn:
+
+- Bác sĩ có chuyên môn laser sắc tố và mạch máu.
+- Bác sĩ có gu thẩm mỹ da, trẻ hóa tự nhiên, không làm gương mặt bị lạ.
+- Bác sĩ biết xây chiến lược điều trị: mụn trước hay sẹo trước, laser lúc nào, trẻ hóa bằng gì, nám có nên làm mạnh không.
+- Bác sĩ giải thích rõ để người bệnh quyết định tự tin hơn.
+
+---
+
+## 2. Cấu trúc file
 
 ```text
-bs_thu_md_tinh_gon_v2/
+bs_thu_source_v3_dinh_vi_moi/
 ├── README.md
-├── 00_AUDIT_GOP_FILE.md
 ├── 01_BRAND_CORE.md
 ├── 02_PLATFORM_STRATEGY.md
 ├── 03_WEEKLY_CONTENT_OPERATING_SYSTEM.md
 ├── 04_YOUTUBE_LONGFORM_PLAN.md
-└── 05_WEEKLY_INPUT_OUTPUT_TEMPLATE.md
+├── 05_WEEKLY_INPUT_OUTPUT_TEMPLATE.md
+└── 06_CONTENT_QA_AND_POWER_RULES.md
 ```
 
 ---
@@ -51,63 +55,92 @@ bs_thu_md_tinh_gon_v2/
 ## 3. Cách dùng nhanh
 
 ### Khi cần lên chiến lược tổng thể
+
 Đọc:
+
 1. `01_BRAND_CORE.md`
 2. `02_PLATFORM_STRATEGY.md`
 3. `04_YOUTUBE_LONGFORM_PLAN.md`
 
+Sau đó trả lời theo hướng:
+
+- Định vị có sắc không?
+- Nội dung có kéo đúng tệp không?
+- Có đủ thẩm mỹ/trẻ hóa chưa?
+- Có tạo ra niềm tin chuyên gia không?
+- Có đang bị sa vào giáo dục y khoa nhạt không?
+
 ### Khi Anh gửi input hàng tuần từ Bác sĩ Thu
+
 Đọc:
+
 1. `03_WEEKLY_CONTENT_OPERATING_SYSTEM.md`
 2. `05_WEEKLY_INPUT_OUTPUT_TEMPLATE.md`
+3. `06_CONTENT_QA_AND_POWER_RULES.md`
 
 Sau đó xuất cho Anh:
-- Lịch đăng Facebook cá nhân, TikTok, YouTube Shorts trong tuần.
-- Chủ đề nào giữ lại làm YouTube long-form.
+
+- Nhận định tuần này nên đánh vào trục nào.
+- 3–5 chủ đề ưu tiên.
+- Lịch đăng Facebook cá nhân, TikTok, YouTube Shorts.
 - Script video ngắn 3 tầng.
 - Bài Facebook/case diary nếu có case thật.
+- Gợi ý series dài hạn.
 - Checklist quay batch.
-- KPI cần theo dõi sau 7 ngày.
+- KPI theo dõi sau 7 ngày.
 
 ### Khi viết content cụ thể
+
 Đọc:
+
 1. `01_BRAND_CORE.md`
 2. `05_WEEKLY_INPUT_OUTPUT_TEMPLATE.md`
+3. `06_CONTENT_QA_AND_POWER_RULES.md`
 
----
-
-## 4. Quy tắc vận hành hàng tuần
-
-Mỗi tuần, Bác sĩ Thu chỉ cần gửi input thô theo 4 nhóm:
-
-1. **Case nhớ nhất** — 1 đến 3 case, đã ẩn danh.
-2. **Câu hỏi thật** — câu bệnh nhân/phụ huynh hỏi trong tuần.
-3. **Hiểu lầm gặp nhiều** — ví dụ: “laser một lần là hết”, “mụn còn viêm vẫn trị sẹo”.
-4. **Tư liệu có thể dùng** — ảnh, video, ghi chú khám.
-
-AI sẽ chuyển input này thành:
+Rồi viết theo công thức:
 
 ```text
-Input thô
+Nỗi đau/ham muốn thật
 ↓
-Chấm điểm ưu tiên
+Câu nói sắc của bác sĩ
 ↓
-Chọn 3–5 chủ đề tuần
+Chẩn đoán/chiến lược phía sau
 ↓
-Phân bổ theo nền tảng
+Lựa chọn điều trị/thẩm mỹ đúng
 ↓
-Viết script/bài/caption
+Kỳ vọng thực tế
 ↓
-Lập kế hoạch quay
-↓
-Lịch đăng
-↓
-KPI theo dõi sau 7 ngày
+CTA có lực
 ```
 
 ---
 
-## 5. Nguyên tắc không đổi
+## 4. Nguyên tắc không đổi
 
-- Mỗi video ngắn chỉ nên có **một ý chính**.
-- YouTube long-form chỉ làm từ chủ đề có tín hiệu hoặc có giá trị authority lâu dài.
+- Bác sĩ Thu là nhân vật trung tâm.
+- Pema là bối cảnh chuyên môn và điểm chạm thăm khám, không phải nhân vật chính.
+- Không bắt đầu từ máy móc nếu có thể bắt đầu từ nỗi lo, ham muốn hoặc quyết định chuyên môn.
+- Mỗi video ngắn chỉ một ý chính.
+- Nội dung phải đủ sắc để người xem nhớ, đủ chuyên môn để người xem tin, đủ đời để người xem muốn nghe tiếp.
+- Không dùng giọng sale rẻ: “bay màu”, “hết sạch”, “cam kết 100%”, “đẹp kịp Tết”, “alo ngay”.
+- Không làm nội dung kiểu chỉ dạy kiến thức; phải có quan điểm bác sĩ.
+
+---
+
+## 5. Trục tăng trưởng 90 ngày
+
+### Trục 1 — Authority
+
+Chứng minh Bác sĩ Thu mạnh ở laser sắc tố/mạch máu, bớt Ota, bớt rượu vang, giãn mao mạch, mụn sẹo.
+
+### Trục 2 — Premium conversion
+
+Đưa trẻ hóa, BAP, HIFU, Botox, Filler vào bằng góc nhìn chiến lược thẩm mỹ, không bán dịch vụ đơn lẻ.
+
+### Trục 3 — Reach
+
+Dùng mụn, thâm, sẹo, đỏ da, chăm sóc da sai, hiểu lầm TikTok để kéo người mới.
+
+### Trục 4 — Trust
+
+Dùng case diary, Doctor POV, hành trình điều trị, câu hỏi thật để biến người xem thành người tin.

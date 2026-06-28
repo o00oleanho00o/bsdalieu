@@ -4,12 +4,15 @@
 
 | Nền tảng | Vai trò chính | Mục tiêu | Nội dung ưu tiên |
 |---|---|---|---|
-| Facebook cá nhân | Xây niềm tin | Người xem thấy Bác sĩ Thu thật, hiểu người bệnh, có trách nhiệm | Case diary, Doctor POV, bài dài cảm xúc, video bác sĩ nói |
-| TikTok | Kéo người mới | Người lạ dừng lại vì câu nói đúng nỗi đau/hiểu lầm | Video ngắn, FAQ, myth-busting, một phút phân biệt |
-| YouTube Shorts | Search/discovery ngắn hạn | Gom người tìm câu hỏi cụ thể | Video ngắn tối ưu tiêu đề dạng câu hỏi |
-| YouTube long-form | Authority dài hạn | Xây thư viện chuyên môn có chiều sâu | Video 8–15 phút về bớt, laser, mụn/sẹo, nám |
+| **Facebook cá nhân** | Trust + premium positioning | Người xem thấy Bác sĩ Thu có chuyên môn, có gu, có trải nghiệm thật | Case diary, Doctor POV, trẻ hóa có chiến lược, laser chuyên sâu |
+| **TikTok** | Reach + demand creation | Người lạ dừng lại vì câu nói sắc, đúng nỗi đau | Video ngắn, myth-busting, bác sĩ phản biện hiểu lầm, trẻ hóa/mụn/laser |
+| **YouTube Shorts** | Search + discovery | Gom người tìm câu hỏi cụ thể | Shorts tối ưu tiêu đề hỏi đáp, bớt/mụn/trẻ hóa/laser |
+| **YouTube long-form** | Authority dài hạn | Xây thư viện chuyên gia | Video 8–15 phút về trẻ hóa, laser, mụn sẹo, bớt, nám |
+| **Fanpage** | Retargeting/lưu trữ | Đăng lại nội dung đã thắng, chạy quảng cáo nếu cần | Repost video tốt, album case ẩn danh, thông tin phòng khám |
 
-Fanpage không phải trọng tâm trong phiên bản này. Nếu dùng, Fanpage chỉ làm nơi lưu trữ lại nội dung đã thắng từ Facebook cá nhân/TikTok/YouTube.
+Nguyên tắc:
+
+> **Facebook xây niềm tin. TikTok kéo người mới. YouTube xây tài sản dài hạn. Fanpage chỉ khuếch đại nội dung đã thắng.**
 
 ---
 
@@ -17,59 +20,76 @@ Fanpage không phải trọng tâm trong phiên bản này. Nếu dùng, Fanpage
 
 ### 2.1. Vai trò
 
-Facebook cá nhân là kênh **trust layer**.
+Facebook cá nhân là nơi xây hình ảnh Bác sĩ Thu như một chuyên gia thật, có trải nghiệm thật và gu thẩm mỹ thật.
 
 Người xem cần cảm thấy:
 
-> “Bác sĩ này thật, hiểu người bệnh và nói có trách nhiệm.”
+> “Bác sĩ này không chỉ biết điều trị, mà còn biết nhìn làn da và gương mặt một cách có chiến lược.”
 
 ### 2.2. Nội dung nên đăng
 
 | Nhóm nội dung | Tỷ trọng | Ví dụ |
 |---|---:|---|
-| Hành trình trả lại tuổi thơ | 30% | Case diary về bớt Ota/bớt rượu vang đã ẩn danh |
-| Doctor POV | 25% | Khi nào bác sĩ chưa làm laser ngay? |
-| Video giáo dục ngắn | 20% | Cắt từ TikTok/Reels nhưng caption sâu hơn |
-| Bài dài/case diary | 15% | Một ca khiến bác sĩ phải giải thích kỹ về kỳ vọng |
-| Đời sống nghề/người thật | 10% | Hậu trường khám, học chuyên môn, cảm nghĩ nghề |
+| Trẻ hóa có chiến lược | 25% | “Gương mặt mệt không phải lúc nào cũng cần filler” |
+| Laser sắc tố & mạch máu | 20% | “Vì sao giãn mao mạch không nên chỉ bôi phục hồi?” |
+| Case diary / hành trình thật | 20% | Bớt Ota, bớt rượu vang, mụn sẹo, giãn mạch |
+| Doctor POV | 20% | “Khi nào tôi khuyên khách chưa nên làm thủ thuật?” |
+| Bài giáo dục ngắn/caption sâu | 10% | Mụn, nám, đỏ da, aftercare |
+| Đời sống nghề/người thật | 5% | Hậu trường khám, học chuyên môn, suy nghĩ nghề |
 
-### 2.3. Tần suất
+### 2.3. Tần suất Facebook
 
-Tối thiểu:
+Tối thiểu 4 bài/tuần:
 
-- 3 bài/tuần.
-- 1 bài dài/case diary/tuần.
-- 1 video bác sĩ nói/tuần.
-- 1 bài Doctor POV/tuần.
+| Ngày | Nội dung | Mục tiêu |
+|---|---|---|
+| Thứ 2 | Bài Doctor POV hoặc case diary | Xây trust đầu tuần |
+| Thứ 3/4 | Video ngắn đăng lại từ TikTok, caption sâu hơn | Tăng reach |
+| Thứ 5 | Bài trẻ hóa/thẩm mỹ có chiến lược | Kéo tệp premium |
+| Thứ 7/CN | Case/hành trình/câu chuyện nghề | Tăng kết nối cá nhân |
 
-Lịch mẫu:
+### 2.4. Công thức bài Facebook mạnh
 
-| Ngày | Nội dung |
-|---|---|
-| Thứ 2 | Case diary hoặc bài dài cảm xúc |
-| Thứ 4 | Video bác sĩ nói + caption giải thích |
-| Thứ 6 | Doctor POV hoặc FAQ từ câu hỏi thật |
-| Chủ nhật | Bài nhẹ đời sống nghề nếu có chất liệu thật |
+```text
+Câu mở đầu sắc
+↓
+Một tình huống thật hoặc insight thật
+↓
+Bác sĩ nhìn thấy điều gì phía sau
+↓
+Sai lầm phổ biến
+↓
+Chiến lược đúng
+↓
+Một câu kết đáng nhớ
+↓
+CTA nhẹ nhưng rõ
+```
 
-### 2.4. KPI Facebook cá nhân
+Ví dụ hook:
+
+- “Không phải gương mặt nào mệt cũng cần tiêm filler.”
+- “Có những ca laser, điều quan trọng nhất không phải là chọn máy.”
+- “Một làn da nám không sợ điều trị chậm bằng sợ điều trị sai.”
+- “Sẹo rỗ không bắt đầu từ máy. Nó bắt đầu từ việc mụn đã yên chưa.”
+
+### 2.5. KPI Facebook
 
 KPI tuần:
 
-- 3 bài đăng.
-- Tối thiểu 1 bài thuộc flagship.
-- Tối thiểu 1 bài có Doctor POV.
-- Ghi lại 3–5 bình luận/câu hỏi có thể chuyển thành nội dung tuần sau.
+- 4 bài đăng.
+- Ít nhất 1 bài trẻ hóa/thẩm mỹ chiến lược.
+- Ít nhất 1 bài laser/bớt/giãn mạch.
+- Ít nhất 1 bài Doctor POV.
+- Ghi lại 5 comment/câu hỏi thật.
 
-KPI tháng:
+KPI chất lượng:
 
-| KPI | Mục tiêu tháng đầu | Ghi chú |
-|---|---:|---|
-| Bài đăng | 12–14 | Không tính story |
-| Bài flagship | 4 | Hành trình trả lại tuổi thơ |
-| Video bác sĩ nói | 4–6 | Có thể đăng lại từ TikTok |
-| Bình luận chất lượng | Theo baseline | Ưu tiên câu hỏi thật hơn like |
-| Share/lưu | Theo baseline | Dùng để chọn chủ đề thắng |
-| Inbox mô tả tình trạng cụ thể | Theo baseline | Không ép booking |
+- Comment hỏi tình trạng cụ thể.
+- Inbox có mô tả vấn đề thật.
+- Người quen giới thiệu thêm.
+- Bài được share vì “nói đúng”.
+- Bài tạo ra câu hỏi tiếp theo để làm video.
 
 ---
 
@@ -77,77 +97,117 @@ KPI tháng:
 
 ### 3.1. Vai trò
 
-TikTok là kênh **reach layer**.
+TikTok là kênh kéo người mới và tạo nhu cầu. Không chỉ trả lời câu hỏi có sẵn, mà phải làm người xem nhận ra:
 
-Mục tiêu không phải bán dịch vụ, mà là khiến người lạ nghĩ:
-
-> “Bác sĩ này nói đúng vấn đề của mình, dễ hiểu và không hù dọa.”
+> “À, vấn đề của mình không đơn giản như mình nghĩ. Mình cần bác sĩ đánh giá đúng.”
 
 ### 3.2. Nguyên tắc video TikTok
 
-- Mỗi video chỉ có một ý chính.
-- Hook trong 3 giây đầu.
-- Câu đầu nên chạm vào hiểu lầm/nỗi lo, không mở bằng định nghĩa.
-- Bác sĩ nói trực tiếp trước camera là format chính.
-- Nên có text overlay ngắn.
-- Không dùng nhạc/trend lấn át chuyên môn.
+- Một video chỉ một ý.
+- 3 giây đầu phải có câu đủ sắc.
+- Không mở đầu bằng “Xin chào, hôm nay bác sĩ sẽ chia sẻ...”
+- Không dạy như slide y khoa.
+- Không quay máy móc là chính.
+- Bác sĩ nói trực diện, chắc, ngắn, có quan điểm.
+- Text overlay phải như một headline báo chí.
 
 Cấu trúc:
 
 ```text
-0–3s: Hook
-3–10s: Tình huống/hiểu lầm
-10–35s: Giải thích đúng
-35–50s: Kỳ vọng/lời khuyên
-50–60s: CTA an toàn
+0–3s: Câu chặn người xem
+3–10s: Hiểu lầm/nỗi lo
+10–35s: Bác sĩ phân tích đúng bản chất
+35–50s: Chiến lược/lời khuyên
+50–60s: CTA
 ```
 
-### 3.3. Format ưu tiên
+### 3.3. 5 nhóm hook mạnh
 
-| Format | Ví dụ |
-|---|---|
-| FAQ nhanh | “Bớt rượu vang ở trẻ có nên khám sớm không?” |
-| Myth-busting | “Bớt Ota không phải nám.” |
-| Một phút phân biệt | “Thâm đỏ và thâm nâu khác nhau thế nào?” |
-| Doctor POV | “Khi nào tôi chưa làm laser ngay cho trẻ?” |
-| Comment reply | Trả lời câu hỏi thật của phụ huynh/bệnh nhân |
-| Aftercare | “Sau laser, dấu hiệu nào cần gọi bác sĩ?” |
+#### A. Hook phản biện
 
-### 3.4. Tần suất
+- “Không phải cứ da chảy là đi tiêm filler.”
+- “Laser mạnh hơn không có nghĩa là tốt hơn.”
+- “Mụn chưa yên mà trị sẹo là sai thứ tự.”
+- “Đỏ da không phải lúc nào cũng là da yếu.”
 
-Tối thiểu:
+#### B. Hook phân loại
 
-- 3 video/tuần.
-- Mỗi tuần có ít nhất 1 video flagship.
-- Mỗi tuần có ít nhất 1 video FAQ/myth-busting.
+- “Gương mặt mệt thường đến từ 3 nguyên nhân.”
+- “Thâm sau mụn có ít nhất 2 loại rất khác nhau.”
+- “Bớt đỏ ở trẻ không phải loại nào cũng giống nhau.”
 
-Lịch mẫu:
+#### C. Hook cảnh báo mềm
 
-| Ngày | Nội dung |
-|---|---|
-| Thứ 3 | FAQ/myth-busting |
-| Thứ 5 | Doctor POV hoặc một phút phân biệt |
-| Thứ 7 | Video follow-up từ comment/câu hỏi thật |
+- “Điều tôi sợ nhất không phải là nám đậm, mà là kỳ vọng sạch vĩnh viễn.”
+- “Có những ca tiêm thêm sẽ không đẹp hơn.”
+- “Da đang viêm mà làm mạnh thường chỉ làm hành trình dài hơn.”
 
-### 3.5. KPI TikTok
+#### D. Hook chuyên gia có gu
+
+- “Trẻ hơn không có nghĩa là mặt phải căng hơn.”
+- “Một gương mặt đẹp là gương mặt tươi hơn, không phải khác đi.”
+- “Filler đẹp nhất là khi người khác không biết bạn đã tiêm.”
+
+#### E. Hook từ câu hỏi thật
+
+- “Bác sĩ ơi, bớt Ota có phải nám không?”
+- “Con có bớt rượu vang thì nên đợi lớn hay khám sớm?”
+- “Botox có làm mặt đơ không?”
+
+### 3.4. Tần suất TikTok
+
+Tối thiểu: **4 video/tuần**.
+
+Tỷ lệ tuần:
+
+| Nhóm | Số video/tuần |
+|---|---:|
+| Trẻ hóa có chiến lược | 1 |
+| Laser/bớt/giãn mạch | 1 |
+| Mụn/thâm/sẹo | 1 |
+| Doctor POV/comment reply/trend có chọn lọc | 1 |
+
+### 3.5. TikTok không phụ thuộc trend
+
+Trend chỉ dùng khi:
+
+- Có thể biến thành quan điểm bác sĩ.
+- Không làm mất uy tín chuyên môn.
+- Không khiến Bác sĩ Thu giống người bán dịch vụ.
+- Không phải diễn quá lố.
+
+Cách dùng trend tốt:
+
+```text
+Trend/humor
+↓
+Twist chuyên môn
+↓
+Một câu bác sĩ nói trúng nỗi đau
+↓
+Kết lại bằng chiến lược đúng
+```
+
+Ví dụ với rượu thuốc:
+
+> Điều đáng sợ nhất không phải là rượu thuốc. Điều đáng sợ là nhiều người nghĩ da càng hỏng càng là dấu hiệu đang khỏi.
+
+### 3.6. KPI TikTok
 
 KPI tuần:
 
-- 3 video đăng.
-- 2 hook khác nhau được test nếu cùng chủ đề.
-- Ghi lại video có retention tốt nhất.
-- Ghi lại 3 comment có thể thành video mới.
+- 4 video đăng.
+- 2 kiểu hook được test.
+- Ghi lại retention/video giữ người tốt nhất.
+- Ghi lại 5 comment có thể biến thành video.
 
 KPI tháng:
 
-| KPI | Mục tiêu tháng đầu | Ghi chú |
-|---|---:|---|
-| Video đăng | 12–16 | Ưu tiên đều hơn nhiều |
-| Video bác sĩ nói trực tiếp | ≥ 70% | Không quay máy đơn thuần |
-| Video flagship | 4 | Bớt/trẻ em/phụ huynh |
-| Video đạt retention tốt | Theo baseline | Chọn top 20% để repurpose |
-| Comment/câu hỏi mới | Theo baseline | Dùng làm input tuần sau |
-| Follower mới | Theo baseline | Không ép bằng trend lệch định vị |
+- 16 video.
+- Ít nhất 4 video trẻ hóa/thẩm mỹ.
+- Ít nhất 4 video laser/bớt/giãn mạch.
+- Ít nhất 4 video mụn/sẹo.
+- 1–2 video có thể phát triển thành YouTube long-form.
 
 ---
 
@@ -155,99 +215,103 @@ KPI tháng:
 
 ### 4.1. Vai trò
 
-YouTube Shorts là kênh **search/discovery ngắn hạn**.
+YouTube Shorts gom nhu cầu tìm kiếm ngắn hạn. Cùng một video TikTok, khi đưa sang Shorts phải đổi title thành câu hỏi search.
 
-Không reup y nguyên TikTok nếu tiêu đề chưa tối ưu tìm kiếm.
+### 4.2. Title Shorts mẫu
 
-### 4.2. Nguyên tắc đóng gói Shorts
+#### Trẻ hóa
 
-- Tiêu đề dạng câu hỏi người bệnh hay tìm.
-- Mỗi Shorts trả lời một câu hỏi.
-- Caption ngắn, có keyword chính.
-- Gắn playlist đúng chủ đề.
-- Có CTA nhẹ về video dài nếu đã có.
+- “Gương mặt mệt có nên tiêm filler không?”
+- “Botox có làm mặt đơ không?”
+- “HIFU, BAP, Botox, Filler khác nhau thế nào?”
+- “Trẻ hóa tự nhiên nên bắt đầu từ đâu?”
 
-Ví dụ title:
+#### Laser/bớt/giãn mạch
 
-- “Bớt rượu vang ở trẻ có nên khám sớm không?”
 - “Bớt Ota có phải nám không?”
-- “Mụn còn viêm có nên trị sẹo rỗ không?”
+- “Bớt rượu vang ở trẻ có nên khám sớm không?”
+- “Giãn mao mạch có tự hết không?”
 - “Laser càng mạnh càng tốt đúng không?”
 
-### 4.3. Tần suất
+#### Mụn/sẹo
 
-- 2–3 Shorts/tuần.
-- Ưu tiên đăng lại video TikTok đã chỉnh title/caption.
-- Mỗi tháng chọn 1–2 Shorts thắng để làm long-form seed.
+- “Mụn còn viêm có nên trị sẹo rỗ không?”
+- “Thâm đỏ và thâm nâu khác nhau thế nào?”
+- “Sẹo rỗ có đầy 100% không?”
 
-### 4.4. KPI YouTube Shorts
+### 4.3. Tần suất Shorts
 
-| KPI | Tuần | Tháng |
-|---|---:|---:|
-| Shorts đăng | 2–3 | 8–12 |
-| Shorts từ flagship | 1 | 4 |
-| Comment/câu hỏi mới | Theo baseline | Theo baseline |
-| Subscriber từ Shorts | Theo baseline | Theo baseline |
-| Chủ đề đủ tín hiệu làm long-form | 0–1 | 1–2 |
+- 3 Shorts/tuần.
+- Ưu tiên video đã đăng TikTok nhưng tối ưu lại title, caption, keyword.
+- Mỗi tháng chọn 1–2 Shorts thắng để làm video dài.
 
 ---
 
 ## 5. YouTube long-form
 
-Chi tiết ở file `04_YOUTUBE_LONGFORM_PLAN.md`.
+YouTube dài không chỉ làm để có mặt. Đây là nơi chứng minh Bác sĩ Thu có hệ thống tư duy chuyên gia.
 
-Tóm tắt:
+Ưu tiên 3 video đầu:
 
-- 0–3 tháng: chưa cần đăng dày, dùng Shorts/TikTok/Facebook để đo chủ đề thắng.
-- Tháng 2 hoặc 3: bắt đầu 1 video dài/tháng nếu có đủ nguồn lực.
-- 3–6 tháng: duy trì 1 video dài/tháng.
-- 6–12 tháng: tăng lên 1–2 video dài/tháng nếu quy trình quay dựng ổn.
+1. **Trẻ hóa tự nhiên: làm gì để mặt tươi hơn mà không bị lạ?**
+2. **Laser sắc tố và mạch máu: vì sao chẩn đoán đúng quan trọng hơn chọn máy?**
+3. **Mụn — thâm — sẹo: xử lý theo thứ tự nào để không mất tiền oan?**
 
-Long-form ưu tiên:
-
-1. Bớt Ota và bớt rượu vang ở trẻ: phụ huynh cần hiểu gì?
-2. Vì sao điều trị bớt là hành trình, không phải một lần là xong?
-3. Laser trong điều trị bớt sắc tố/mạch máu: đúng chỉ định quan trọng thế nào?
-4. Mụn — thâm — sẹo: xử lý theo thứ tự nào?
-5. Nám: vì sao không nên hứa sạch vĩnh viễn?
+Chi tiết trong `04_YOUTUBE_LONGFORM_PLAN.md`.
 
 ---
 
-## 6. Nguyên tắc phân phối một ý tưởng
+## 6. Quy tắc phân phối một ý tưởng
 
-Một input tốt không nên chỉ thành một bài.
+Một input tốt phải được nhân thành nhiều phiên bản.
 
-Ví dụ input: “Phụ huynh hỏi bớt rượu vang có nên khám sớm không?”
+Ví dụ input:
+
+> “Khách 38 tuổi hỏi mặt mệt có nên tiêm filler không?”
 
 | Nền tảng | Phiên bản |
 |---|---|
-| Facebook cá nhân | Bài case diary/nỗi lo phụ huynh |
-| TikTok | Video 45–60s trả lời trực tiếp |
-| YouTube Shorts | Video 45–60s, title dạng câu hỏi tìm kiếm |
-| YouTube long-form | Một chapter trong video dài về bớt ở trẻ |
+| Facebook cá nhân | Bài Doctor POV: “Không phải gương mặt nào mệt cũng cần filler” |
+| TikTok | Video 45–60s: 3 nguyên nhân khiến mặt mệt |
+| YouTube Shorts | Title: “Gương mặt mệt có nên tiêm filler không?” |
+| YouTube long-form | Một chapter trong video “Trẻ hóa tự nhiên bắt đầu từ đâu?” |
+| Fanpage | Repost video thắng, gắn CTA thăm khám |
 
 ---
 
-## 7. Ưu tiên 90 ngày
+## 7. Chiến lược 90 ngày
 
-### Tháng 1
+### Tháng 1 — Reposition mạnh
 
-- Chỉnh nhận diện: Bác sĩ Thu là trung tâm.
-- 12–16 video ngắn.
-- 4 bài Facebook flagship.
-- Tạo playlist/album “Hành trình trả lại tuổi thơ”.
-- Chưa ép YouTube long-form nếu chưa đủ lực.
+Mục tiêu: người xem hiểu Bác sĩ Thu không chỉ điều trị bệnh da, mà là bác sĩ da liễu thẩm mỹ có chiến lược.
 
-### Tháng 2
+Việc cần làm:
 
-- Duy trì 3 series:
-  - Hành trình trả lại tuổi thơ.
-  - Laser không phải phép màu.
-  - Mụn — thâm — sẹo có chiến lược.
-- Bắt đầu 1 video YouTube dài nếu có đủ dữ liệu.
+- Đổi bio theo slogan mới.
+- Mở series “Đẹp từ chẩn đoán đúng”.
+- Đăng đều 4 TikTok/tuần, 4 Facebook/tuần, 3 Shorts/tuần.
+- Mỗi tuần có 1 nội dung trẻ hóa.
+- Không để feed toàn bớt/trẻ em.
 
-### Tháng 3
+### Tháng 2 — Đẩy premium content
 
-- Chọn 3–5 nội dung thắng để mở rộng.
-- Làm 1 video YouTube dài/tháng.
-- Bắt đầu báo cáo theo pillar, không chỉ theo view.
+Mục tiêu: kéo nhóm 30–45, có khả năng chi trả, quan tâm trẻ hóa tự nhiên.
+
+Series cần đẩy:
+
+- Trẻ hóa không phải làm nhiều hơn.
+- Gương mặt mệt cần xử lý gì?
+- Botox/Filler/HIFU/BAP khác nhau ở đâu?
+- Khi nào bác sĩ khuyên chưa nên làm?
+
+### Tháng 3 — Scale nội dung thắng
+
+Mục tiêu: chọn 3–5 chủ đề có tín hiệu tốt để làm long-form, Facebook bài dài và series TikTok.
+
+Tiêu chí chọn:
+
+- Comment hỏi thật.
+- Inbox có mô tả tình trạng.
+- Share/lưu tốt.
+- Bác sĩ nói tự nhiên.
+- Chủ đề có khả năng kéo khách đúng tệp.

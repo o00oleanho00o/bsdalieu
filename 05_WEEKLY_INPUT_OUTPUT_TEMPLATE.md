@@ -10,12 +10,19 @@ File này dùng để Anh copy nhanh mỗi tuần.
 Tuần: [ngày/tháng]
 
 1. Case nhớ nhất tuần này
+
 Case 1:
-- Bệnh/tình trạng chính:
-- Người bệnh thuộc nhóm nào: trẻ em/phụ huynh/người trưởng thành/mụn/nám/đỏ da/sau thủ thuật
+- Tình trạng chính:
+- Người bệnh thuộc nhóm nào:
+  trẻ hóa / laser sắc tố / giãn mạch / bớt trẻ em / mụn sẹo / nám / đỏ da / aftercare
+- Tuổi/nhóm tuổi:
 - Câu chuyện hoặc bối cảnh:
 - Câu nói/cảm xúc của bệnh nhân/phụ huynh:
+- Bệnh nhân muốn gì nhất:
+- Bệnh nhân sợ gì nhất:
+- Điểm bác sĩ phát hiện khác với người bệnh nghĩ:
 - Điều bác sĩ đã giải thích:
+- Chiến lược xử lý:
 - Điều bác sĩ muốn người xem hiểu:
 - Có ảnh/video không:
 - Consent chia sẻ: Có/Không/Chưa rõ
@@ -34,21 +41,25 @@ Case 2:
 - Hiểu lầm 1:
 - Hiểu lầm 2:
 
-4. Chủ đề bác sĩ muốn nói thêm
+4. Chủ đề bác sĩ muốn đẩy tuần này
 - Chủ đề:
-- Vì sao muốn nói:
+- Vì sao muốn đẩy:
+- Muốn kéo tệp nào:
+- Có dịch vụ/nhóm điều trị liên quan không:
 
 5. Tư liệu quay/chụp có sẵn
 - Ảnh:
 - Video:
 - Ghi âm:
 - Ghi chú:
+- B-roll có thể quay:
 
 6. Lịch quay tuần này
 - Có thể quay ngày:
 - Thời lượng quay:
 - Bối cảnh:
 - Trang phục:
+- Mic/ánh sáng:
 ```
 
 ---
@@ -58,14 +69,16 @@ Case 2:
 ```text
 # Kế hoạch nội dung tuần [ngày/tháng]
 
-## 1. Nhận định nhanh
-- Input mạnh nhất:
-- Chủ đề nên ưu tiên:
+## 1. Nhận định chiến lược
+- Tuần này nên chiếm ý niệm nào:
+- Tệp khách cần kéo:
+- Chủ đề mạnh nhất:
 - Chủ đề nên để sau:
-- Rủi ro safety:
+- Góc cần làm sắc hơn:
+- Rủi ro cần tránh:
 
 ## 2. Bảng chọn ý tưởng
-| Chủ đề | Pillar | Nền tảng chính | Nỗi đau | Doctor POV | Điểm /100 | Quyết định |
+| Chủ đề | Pillar | Trục tăng trưởng | Nền tảng chính | Hook | Điểm /100 | Quyết định |
 |---|---|---|---|---|---:|---|
 
 ## 3. Lịch đăng tuần
@@ -79,10 +92,12 @@ Case 2:
 - Ánh sáng/mic:
 - Props/hình minh họa:
 - Cảnh B-roll cần lấy:
+- Câu quote cần bác sĩ nói chắc:
 
 ## 5. Nội dung chi tiết
 ### Video 1
 - Insight:
+- Hook:
 - Full Script:
 - Teleprompter 100–120 từ:
 - Cue Card:
@@ -90,13 +105,14 @@ Case 2:
 - Caption TikTok:
 - Title YouTube Shorts:
 - Caption Facebook nếu đăng lại:
-- Safety:
+- CTA:
+- QA:
 
 ### Bài Facebook
 - Hook:
 - Bài viết:
 - CTA:
-- Safety:
+- QA:
 
 ## 6. KPI cần theo dõi sau 7 ngày
 | Nền tảng | KPI | Ghi chú |
@@ -110,13 +126,31 @@ Case 2:
 ```text
 Chủ đề:
 Pillar:
+Trục tăng trưởng: reach / trust / premium / authority
 Người xem chính:
 Insight cảm xúc:
+Ham muốn/nỗi sợ:
 Hiểu lầm:
 Doctor POV:
+CTA mục tiêu:
 
 ## 1. Full Script 45–60 giây
-[Hook]
+[Hook 0–3s]
+...
+
+[Vấn đề/hiểu lầm]
+...
+
+[Bác sĩ đặt lại vấn đề]
+...
+
+[Chiến lược đúng]
+...
+
+[Câu kết]
+...
+
+[CTA]
 ...
 
 ## 2. Prompt Teleprompter 100–120 từ
@@ -124,24 +158,30 @@ Doctor POV:
 
 ## 3. Cue Card
 - Hook:
-- Ý 1:
-- Ý 2:
-- Ý 3:
-- Kỳ vọng:
+- Sai lầm/hiểu lầm:
+- Phân loại/chẩn đoán:
+- Chiến lược:
+- Câu nhớ:
 - CTA:
 
 ## Text overlay
-- 
-- 
+- Overlay 1:
+- Overlay 2:
+- Overlay 3:
 
 ## Caption
 ...
 
 ## Gợi ý cảnh quay
-- 
+- A-roll:
+- B-roll:
+- Props:
 
-## Safety
-- Không cam kết kết quả.
+## QA
+- Có quá hứa kết quả không:
+- Có quá sale không:
+- Có đủ sắc không:
+- Có đúng định vị không:
 ```
 
 ---
@@ -151,28 +191,34 @@ Doctor POV:
 ```text
 Chủ đề:
 Nguồn input:
+Pillar:
+Trục tăng trưởng:
 Mức độ chia sẻ case: công khai/ẩn danh/chỉ lấy insight
 
 ## Bài viết
-[Mở bằng tình huống đời sống]
+[Mở bằng một câu sắc]
 
-[Gọi tên cảm xúc/nỗi lo]
+[Tình huống thật hoặc insight thật]
+
+[Nỗi lo/ham muốn của người bệnh]
 
 [Góc nhìn bác sĩ]
 
-[Giải thích dễ hiểu]
+[Điểm nhiều người hiểu sai]
 
-[Kỳ vọng thực tế]
+[Chiến lược đúng]
 
-[Lời khuyên]
+[Câu kết đáng nhớ]
 
-[CTA an toàn]
+[CTA]
 
 ## Caption ngắn nếu cần
 ...
 
-## Safety
-- Có cần bác sĩ duyệt chuyên môn không:
+## QA
+- Có đủ cá tính Bác sĩ Thu không:
+- Có kéo đúng tệp không:
+- Có tránh hứa quá không:
 ```
 
 ---
@@ -182,22 +228,24 @@ Mức độ chia sẻ case: công khai/ẩn danh/chỉ lấy insight
 ```text
 Video gốc:
 Chủ đề:
+Pillar:
 Keyword chính:
+Keyword phụ:
 
 Title 1:
 Title 2:
 Title 3:
 
 Description ngắn:
-Nội dung này mang tính giáo dục, không thay thế thăm khám trực tiếp. Nếu bạn hoặc con bạn có tình trạng tương tự, nên thăm khám với bác sĩ da liễu để được đánh giá đúng.
+...
 
 Hashtag:
-#BacSiThu #DaLieu #LaserAnToan
+#BacSiThu #DepTuChanDoanDung #DaLieuThamMy
 
 Playlist:
 
 Pinned comment:
-Bạn muốn Bác sĩ Thu giải thích thêm về phần nào?
+Bạn muốn Bác sĩ Thu giải thích thêm phần nào?
 ```
 
 ---
@@ -225,18 +273,19 @@ Trong video này, Bác sĩ Thu chia sẻ về...
 
 Chapters:
 00:00 Hook
-00:30 Nỗi lo thường gặp
+00:30 Tình huống đời sống
 01:30 Hiểu lầm phổ biến
-03:00 Giải thích bản chất
-07:00 Bác sĩ đánh giá gì
-10:00 Kỳ vọng thực tế
-12:00 Lời khuyên
-
-CTA:
-Nội dung này chỉ mang tính giáo dục, không thay thế thăm khám trực tiếp...
+03:00 Bác sĩ phân loại vấn đề
+06:00 Chiến lược xử lý
+09:00 Khi nào làm / khi nào chưa làm
+11:00 Kỳ vọng thực tế
+13:00 CTA
 
 Shorts cắt từ video dài:
 1.
 2.
 3.
+
+Bài Facebook recap:
+...
 ```

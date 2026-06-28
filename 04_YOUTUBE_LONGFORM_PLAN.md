@@ -2,43 +2,50 @@
 
 ## 1. Vai trò YouTube long-form
 
-YouTube long-form là tài sản authority dài hạn.
+YouTube long-form là thư viện authority dài hạn của Bác sĩ Thu.
 
-Không dùng YouTube dài để đăng cho đủ số lượng. Chỉ làm khi chủ đề có:
+Không làm video dài kiểu đọc kiến thức. Mỗi video dài phải chứng minh được:
 
-- Nhu cầu tìm kiếm rõ.
-- Câu hỏi thật lặp lại.
-- Giá trị giải thích sâu.
-- Tính evergreen, còn hữu ích sau nhiều tháng.
-- Phù hợp định vị Bác sĩ Thu.
+> **Bác sĩ Thu có hệ thống tư duy, có gu thẩm mỹ, có khả năng chẩn đoán và chọn chiến lược.**
 
-YouTube long-form phải giúp người xem nghĩ:
+Video dài phải giúp người xem nghĩ:
 
-> “Bác sĩ này giải thích có hệ thống, có trách nhiệm và không hứa quá.”
+> “Bác sĩ này không chỉ nói đúng. Bác sĩ này biết nhìn vấn đề của mình theo một hệ thống.”
 
 ---
 
-## 2. Giai đoạn triển khai
+## 2. Định vị YouTube mới
+
+Trục kênh:
+
+> **Đẹp từ chẩn đoán đúng.**
+
+4 nhóm playlist chính:
+
+1. **Trẻ hóa có chiến lược** — premium, kéo nhóm 30–45.
+2. **Laser sắc tố & mạch máu đúng chỉ định** — authority chuyên môn.
+3. **Mụn — thâm — sẹo có chiến lược** — search/reach bền.
+4. **Hành trình trả lại tuổi thơ** — trust cảm xúc, khác biệt.
+
+Playlist phụ:
+
+5. **Nám/sắc tố không hứa quá**.
+6. **Đỏ da/PIE/PDL/giãn mạch**.
+7. **Aftercare & chăm sóc da sau thủ thuật**.
+8. **Doctor POV**.
+
+---
+
+## 3. Giai đoạn triển khai
 
 | Giai đoạn | Mục tiêu | Tần suất |
 |---|---|---:|
-| Tháng 1 | Xây nền: playlist, format, Shorts, đo chủ đề thắng | Chưa bắt buộc video dài |
-| Tháng 2–3 | Thử nghiệm 1–2 video dài đầu tiên | 1 video/tháng nếu đủ lực |
+| Tháng 1 | Xây nền kênh, đăng Shorts đều, chọn 1 chủ đề video dài đầu tiên | 0–1 video dài |
+| Tháng 2–3 | Ra 2 video dài đầu tiên để xác lập định vị mới | 1 video/tháng |
 | Tháng 4–6 | Duy trì thư viện authority | 1 video/tháng |
-| Tháng 7–12 | Mở rộng nếu quy trình ổn | 1–2 video/tháng |
+| Tháng 7–12 | Tăng tốc nếu quy trình ổn | 1–2 video/tháng |
 
----
-
-## 3. Playlist cần tạo
-
-1. Hành trình trả lại tuổi thơ.
-2. Bớt Ota, bớt rượu vang, bạch biến: hiểu đúng.
-3. Laser an toàn, đúng chỉ định.
-4. Mụn — thâm — sẹo có chiến lược.
-5. Nám và sắc tố.
-6. Đỏ da/PIE/PDL.
-7. Chăm sóc sau thủ thuật.
-8. Doctor POV.
+Không cần chờ quá lâu nếu đã có chủ đề đủ mạnh. Video đầu tiên nên làm trong 30–45 ngày khi có đủ script và lịch quay.
 
 ---
 
@@ -49,45 +56,142 @@ YouTube long-form phải giúp người xem nghĩ:
 Cấu trúc:
 
 ```text
-0:00–0:30 Hook đời sống
-0:30–1:30 Nỗi lo người bệnh/phụ huynh
+0:00–0:20 Câu mở đầu sắc
+0:20–1:30 Tình huống đời sống / nỗi lo thật
 1:30–3:00 Hiểu lầm phổ biến
-3:00–7:00 Giải thích bản chất
-7:00–10:00 Bác sĩ đánh giá gì?
-10:00–12:00 Kỳ vọng thực tế và chăm sóc
-12:00–13:00 CTA an toàn
+3:00–6:00 Bác sĩ phân loại vấn đề
+6:00–9:00 Chiến lược xử lý
+9:00–11:00 Khi nào làm / khi nào chưa làm
+11:00–13:00 Kỳ vọng thực tế
+13:00–15:00 CTA và câu kết đáng nhớ
 ```
 
-Với video đầu kênh, không nên quá dài. Ưu tiên 8–12 phút để dễ quay và dễ giữ nhịp.
+Mỗi video dài cần cắt ra ít nhất:
+
+- 3 Shorts.
+- 1 bài Facebook recap.
+- 1 bài Doctor POV.
+- 3 câu quote để dùng lại.
 
 ---
 
-## 5. Workflow sản xuất 1 video dài trong 4 tuần
+## 5. 12 chủ đề long-form đầu tiên
+
+| Tháng | Chủ đề | Playlist | Mục tiêu |
+|---:|---|---|---|
+| 1 | Trẻ hóa tự nhiên: làm gì để mặt tươi hơn mà không bị lạ? | Trẻ hóa có chiến lược | Đặt định vị premium |
+| 2 | Laser sắc tố và mạch máu: vì sao chẩn đoán đúng quan trọng hơn chọn máy? | Laser đúng chỉ định | Authority chuyên môn |
+| 3 | Mụn — thâm — sẹo: xử lý theo thứ tự nào để không mất tiền oan? | Mụn — thâm — sẹo | Search/reach bền |
+| 4 | Bớt Ota và bớt rượu vang ở trẻ: phụ huynh cần hiểu gì? | Hành trình trả lại tuổi thơ | Trust cảm xúc |
+| 5 | Botox, Filler, HIFU, BAP: khác nhau ở mục tiêu nào? | Trẻ hóa có chiến lược | Kéo khách thẩm mỹ |
+| 6 | Gương mặt mệt: thiếu thể tích, chảy xệ hay da kém chất lượng? | Trẻ hóa có chiến lược | Xây gu chuyên gia |
+| 7 | Đỏ da, giãn mao mạch, rosacea, PIE khác nhau thế nào? | Đỏ da/PDL | Ngách chuyên môn |
+| 8 | Nám: vì sao không nên hứa sạch vĩnh viễn? | Nám/sắc tố | Trust nữ trưởng thành |
+| 9 | Không phải cứ nám là laser: bác sĩ cần đánh giá gì? | Nám/sắc tố | Chống hiểu lầm |
+| 10 | Khi con có mảng trắng trên da: phụ huynh nên làm gì? | Hành trình trả lại tuổi thơ | FAQ phụ huynh |
+| 11 | Chăm sóc sau laser/thủ thuật: dấu hiệu nào bình thường, dấu hiệu nào cần liên hệ? | Aftercare | Tăng lưu/share |
+| 12 | Một năm nhìn lại: điều tôi muốn người bệnh hiểu trước khi điều trị hoặc làm đẹp da | Doctor POV | Tổng kết thương hiệu |
+
+---
+
+## 6. 3 video dài nên làm đầu tiên
+
+### Video 1
+
+**Tên gợi ý:**
+
+> Trẻ hóa tự nhiên: làm sao để mặt tươi hơn mà không bị lạ?
+
+Mục tiêu:
+
+- Đẩy định vị thẩm mỹ có gu.
+- Kéo tệp 30–45.
+- Mở đường cho Botox/Filler/HIFU/BAP mà không bán dịch vụ thô.
+
+Chapters:
+
+```text
+00:00 Trẻ hơn không có nghĩa là mặt phải căng hơn
+00:45 Vì sao nhiều người sợ làm thẩm mỹ?
+02:00 Gương mặt mệt thường đến từ 3 nhóm nguyên nhân
+04:00 Khi nào cần cải thiện da?
+06:00 Khi nào cần nâng mô/căng da?
+08:00 Khi nào cần làm đầy hoặc thư giãn cơ?
+10:00 Làm sao để vẫn giống mình, chỉ tươi hơn?
+12:00 Lời khuyên trước khi quyết định
+```
+
+Shorts cắt ra:
+
+1. Gương mặt mệt không phải lúc nào cũng cần filler.
+2. Trẻ hóa đẹp là vẫn giống mình, chỉ tươi hơn.
+3. HIFU, BAP, Botox, Filler khác nhau ở mục tiêu nào?
+
+### Video 2
+
+**Tên gợi ý:**
+
+> Laser sắc tố và mạch máu: vì sao chẩn đoán đúng quan trọng hơn chọn máy?
+
+Mục tiêu:
+
+- Chứng minh năng lực laser.
+- Kéo nhóm bớt Ota, bớt rượu vang, giãn mao mạch.
+- Tạo khác biệt với nơi bán máy/công nghệ.
+
+Shorts cắt ra:
+
+1. Laser càng mạnh càng tốt đúng không?
+2. Bớt Ota có phải nám không?
+3. Giãn mao mạch có tự hết không?
+
+### Video 3
+
+**Tên gợi ý:**
+
+> Mụn — thâm — sẹo: xử lý theo thứ tự nào để không mất tiền oan?
+
+Mục tiêu:
+
+- Kéo search/reach.
+- Giải thích thứ tự điều trị.
+- Tạo niềm tin với nhóm người trẻ.
+
+Shorts cắt ra:
+
+1. Mụn còn viêm có nên trị sẹo chưa?
+2. Thâm đỏ và thâm nâu khác nhau thế nào?
+3. Sẹo rỗ có đầy 100% không?
+
+---
+
+## 7. Workflow sản xuất 1 video dài trong 4 tuần
 
 | Tuần | Việc | Output |
 |---|---|---|
-| Tuần 1 | Chọn chủ đề, research, gom câu hỏi thật, viết outline | Outline + 3 title + thumbnail concept |
-| Tuần 2 | Viết script/bullet, chuẩn bị hình minh họa, chốt shotlist | Script quay + asset list |
-| Tuần 3 | Quay A-roll/B-roll, quay 3–5 Shorts phụ | Video gốc + clip ngắn |
-| Tuần 4 | Dựng, duyệt chuyên môn, upload, cắt Shorts, đăng Facebook recap | Video dài + 3 Shorts + 1 bài Facebook |
+| Tuần 1 | Chọn chủ đề, gom câu hỏi thật, viết angle | 1 outline + 3 title + thumbnail idea |
+| Tuần 2 | Viết script bullet, chuẩn bị hình minh họa | Script quay + asset list |
+| Tuần 3 | Quay A-roll/B-roll, quay thêm Shorts | Video gốc + 3–5 clip dọc |
+| Tuần 4 | Dựng, đăng, cắt Shorts, viết bài FB recap | 1 video dài + 3 Shorts + 1 bài Facebook |
 
 ---
 
-## 6. Kế hoạch quay
+## 8. Kế hoạch quay
 
 ### A-roll
 
 - Bác sĩ Thu nói trực tiếp trước camera.
-- Góc máy ngang hoặc dọc tùy format, nhưng long-form nên ưu tiên ngang 16:9 nếu làm YouTube chính thống.
+- Long-form nên quay ngang 16:9 nếu làm YouTube chính thống.
 - Có thể quay thêm dọc để cắt Shorts.
-- Câu nói cần tự nhiên như tư vấn, không đọc như MC.
+- Không đọc như MC. Nói như đang tư vấn một người thật.
 
 ### B-roll
 
-- Bác sĩ ghi chú/đọc hồ sơ đã ẩn danh.
+- Bác sĩ xem hồ sơ đã ẩn danh.
+- Bác sĩ ghi chú chiến lược điều trị.
 - Cảnh phòng khám gọn.
 - Hình minh họa đơn giản.
-- Không cần show cận mặt trẻ em/case thật nếu chưa thật sự cần.
+- Cận tay, máy, lọ thuốc, dụng cụ chỉ làm phụ trợ.
 - Nếu dùng ảnh case, phải che nhận diện và có đồng ý phù hợp.
 
 ### Thumbnail
@@ -96,85 +200,40 @@ Nguyên tắc:
 
 - Gương mặt Bác sĩ Thu rõ.
 - Text ngắn 3–6 từ.
+- Có góc nhìn mạnh.
 - Không dùng before/after gây sốc.
-- Không dùng chữ “hết sạch”, “xóa sạch”, “cam kết”.
+- Không dùng chữ “hết sạch”, “cam kết”, “xóa sạch”.
 
-Ví dụ thumbnail text:
+Text thumbnail mẫu:
 
+- “ĐẸP TỪ CHẨN ĐOÁN”
+- “TRẺ HƠN, KHÔNG LẠ MẶT”
+- “LASER KHÔNG CHỈ LÀ MÁY”
+- “MỤN - SẸO: SAI THỨ TỰ?”
 - “BỚT Ở TRẺ: KHÁM SỚM?”
-- “LASER KHÔNG PHẢI PHÉP MÀU”
-- “MỤN - THÂM - SẸO: THỨ TỰ ĐÚNG”
 
 ---
 
-## 7. 12 chủ đề long-form đầu tiên
+## 9. KPI YouTube
 
-| Tháng | Chủ đề | Playlist | Mục tiêu |
-|---:|---|---|---|
-| 1 | Chưa bắt buộc video dài. Dùng Shorts để đo chủ đề thắng. |  | Xây nền |
-| 2 | Bớt Ota và bớt rượu vang ở trẻ: phụ huynh cần hiểu gì? | Hành trình trả lại tuổi thơ | Flagship authority |
-| 3 | Vì sao điều trị bớt là hành trình, không phải một lần là xong? | Hành trình trả lại tuổi thơ | Đặt kỳ vọng thực tế |
-| 4 | Laser trong điều trị bớt sắc tố/mạch máu: đúng chỉ định quan trọng thế nào? | Laser an toàn | Authority chuyên môn |
-| 5 | Khi con có mảng trắng trên da: phụ huynh nên làm gì? | Bớt/bạch biến hiểu đúng | FAQ phụ huynh |
-| 6 | Mụn — thâm — sẹo: nên xử lý theo thứ tự nào? | Mụn — thâm — sẹo | Kéo nhóm người trẻ |
-| 7 | Thâm đỏ, thâm nâu và sẹo khác nhau thế nào? | Mụn — thâm — sẹo | Search evergreen |
-| 8 | Nám: vì sao không nên hứa sạch vĩnh viễn? | Nám/sắc tố | Xây trust nữ trưởng thành |
-| 9 | Không phải cứ nám là laser: bác sĩ cần đánh giá gì? | Nám/sắc tố | Doctor-led |
-| 10 | Đỏ da không chỉ là da yếu: PIE, rosacea, giãn mạch khác nhau ra sao? | Đỏ da/PIE/PDL | Ngách chuyên môn |
-| 11 | Chăm sóc sau laser: dấu hiệu nào bình thường, dấu hiệu nào cần liên hệ bác sĩ? | Aftercare | Tăng lưu/share |
-| 12 | Một năm nhìn lại: điều bác sĩ muốn người bệnh hiểu trước khi điều trị da | Doctor POV | Tổng kết thương hiệu |
+### KPI vận hành tháng đầu
 
-Nếu tháng 7–12 có đủ nguồn lực, có thể thêm video thứ 2/tháng từ các chủ đề đã thắng trên TikTok/Shorts.
+| Hạng mục | Mục tiêu |
+|---|---:|
+| Shorts | 12 video/tháng |
+| Long-form | 0–1 video |
+| Playlist | 4 playlist chính |
+| Title test | 2–3 title/video |
+| Shorts cắt từ long-form | 3–5/video dài |
 
----
+### KPI hiệu quả
 
-## 8. KPI tháng cho YouTube
-
-Vì chưa biết baseline kênh hiện tại, KPI chia thành 2 nhóm: **KPI vận hành** và **KPI hiệu quả**.
-
-### 8.1. KPI vận hành
-
-| Tháng | Long-form | Shorts | Playlist | Ghi chú |
-|---:|---:|---:|---:|---|
-| 1 | 0 | 8–12 | Tạo đủ 4 playlist chính | Xây nền |
-| 2 | 1 | 8–12 | 1 playlist flagship có nội dung | Video dài đầu tiên |
-| 3 | 1 | 8–12 | Cắt 3 Shorts từ mỗi video dài | Bắt đầu đo retention |
-| 4 | 1 | 8–10 | Duy trì metadata chuẩn | Tối ưu title/thumbnail |
-| 5 | 1 | 8–10 | Thêm FAQ phụ huynh | Mở rộng chủ đề trẻ em |
-| 6 | 1 | 8–10 | Review 6 tháng | Chọn series thắng |
-| 7–12 | 1–2/tháng | 8–12/tháng | Duy trì thư viện | Tăng nếu quy trình ổn |
-
-### 8.2. KPI hiệu quả
-
-| Giai đoạn | KPI cần xem | Mục tiêu thực tế |
-|---|---|---|
-| Tháng 1 | Impressions, views Shorts, subscriber từ Shorts | Lấy baseline |
-| Tháng 2–3 | CTR, average view duration, watch time video dài | Tìm format giữ người xem tốt nhất |
-| Tháng 4–6 | Search terms, returning viewers, subscriber tăng | Có chủ đề bắt đầu kéo traffic tìm kiếm |
-| Tháng 7–12 | Watch time tổng, video evergreen, comment chất lượng | Tạo thư viện authority thật |
-
-Chỉ số nên đọc hàng tháng:
-
-- Impressions.
-- CTR.
-- Views.
-- Average view duration.
-- Watch time hours.
-- Returning viewers.
-- Subscribers gained.
-- Search terms.
-- Comments hỏi đúng vấn đề.
-
----
-
-## 9. KPI tuần cho YouTube
-
-| Tuần trong tháng | Việc | KPI |
-|---|---|---|
-| Tuần 1 | Chọn chủ đề + outline | 1 outline hoàn chỉnh, 3 title options, 2 thumbnail concepts |
-| Tuần 2 | Script + chuẩn bị quay | 1 script/bullet, 1 shotlist, 3 Shorts seed |
-| Tuần 3 | Quay | 1 video dài quay xong, 3–5 clip dọc phụ |
-| Tuần 4 | Dựng + đăng + repurpose | 1 video dài đăng, 3 Shorts cắt ra, 1 bài Facebook recap |
+| Giai đoạn | KPI cần xem |
+|---|---|
+| Tháng 1 | Shorts views, retention, subscriber từ Shorts, comment hỏi đúng vấn đề |
+| Tháng 2–3 | CTR, average view duration, watch time, search terms |
+| Tháng 4–6 | Returning viewers, chủ đề evergreen, comment chất lượng |
+| Tháng 7–12 | Watch time tổng, subscriber tăng, video kéo khách đúng tệp |
 
 ---
 
@@ -182,18 +241,20 @@ Chỉ số nên đọc hàng tháng:
 
 ```text
 Tên video:
+Playlist:
 Người xem chính:
-Nỗi lo chính:
+Nỗi đau/ham muốn chính:
 Lời hứa giá trị:
+Câu mở đầu sắc:
 
-0:00 Hook:
-0:30 Tình huống đời sống:
-1:30 Hiểu lầm phổ biến:
-3:00 Giải thích bản chất:
-7:00 Bác sĩ đánh giá gì:
-10:00 Kỳ vọng thực tế:
-12:00 Lời khuyên:
-13:00 CTA an toàn:
+00:00 Hook:
+00:30 Tình huống đời sống:
+01:30 Hiểu lầm phổ biến:
+03:00 Bác sĩ phân loại vấn đề:
+06:00 Chiến lược xử lý:
+09:00 Khi nào làm / khi nào chưa làm:
+11:00 Kỳ vọng thực tế:
+13:00 CTA:
 
 3 tiêu đề đề xuất:
 1.
@@ -209,14 +270,8 @@ Shorts cắt ra:
 2.
 3.
 
-Safety:
-- Có nhắc nội dung giáo dục không:
-- Có tránh cam kết kết quả không:
-- Có che thông tin trẻ em/case không:
+Bài Facebook recap:
+- Hook:
+- Ý chính:
+- CTA:
 ```
-
----
-
-## 11. CTA YouTube mẫu
-
-> Nội dung này chỉ mang tính giáo dục, không thay thế thăm khám trực tiếp. Nếu bạn hoặc con bạn có tình trạng tương tự, nên thăm khám với bác sĩ da liễu để được đánh giá đúng.
